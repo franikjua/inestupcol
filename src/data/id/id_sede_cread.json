@@ -1,0 +1,54 @@
+[
+    {
+        "id": 54518,
+        "nombre": "Pamplona"
+    },
+    {
+        "id": 54874,
+        "nombre": "Villa del Rosario"
+    },
+    {
+        "id": 54001,
+        "nombre": "San Jose de Cucuta"
+    },
+    {
+        "id": 11001,
+        "nombre": "Bogota DC"
+    },
+    {
+        "id": 68001,
+        "nombre": "Bucaramanga"
+    },
+    {
+        "id": 25126,
+        "nombre": "Cajica"
+    },
+    {
+        "id": 13001,
+        "nombre": "Cartagena de Indias"
+    },
+    {
+        "id": 15238,
+        "nombre": "Duitama"
+    },    
+    {
+        "id": 44001,
+        "nombre": "Riohacha"
+    },    
+    {
+        "id": 95001,
+        "nombre": "San Jose del Guaviare"
+    },
+    {
+        "id": 47001,
+        "nombre": "Santa Marta"
+    },
+    {
+        "id": 20001,
+        "nombre": "Valledupar"
+    },    
+    {
+        "id": 85001,
+        "nombre": "Yopal"
+    }
+]

@@ -1,0 +1,61 @@
+.colmapSvg {
+  pointer-events: all !important;
+}
+
+.colmapCircle {
+  pointer-events: all !important;
+  cursor: pointer;
+}
+
+.colmapMapContainer {
+  text-align: center;
+  position: relative;
+}
+
+.colmapColombiaMap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+}
+
+.colmapTooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  visibility: hidden;
+  font-size: 14px;
+  pointer-events: none;
+}
+
+.colmapTooltipShow {
+  visibility: visible;
+}
+
+.colmapTooltipTop {
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.colmapTooltipBottom {
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.colmapTooltipLeft {
+  left: -10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.colmapTooltipRight {
+  right: -10px;
+  top: 50%;
+  transform: translateY(-50%);
+}

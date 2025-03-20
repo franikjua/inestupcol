@@ -1,0 +1,163 @@
+[
+    {
+        "snies": "19816",
+        "nombre_programa": "COMUNICACIÓN SOCIAL",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Artes y Humanidades",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "11927",
+        "nombre_programa": "FILOSOFÍA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Artes y Humanidades",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "14771",
+        "nombre_programa": "MEDICINA VETERINARIA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias Agrarias",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "11305",
+        "nombre_programa": "BIOLOGÍA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias Basicas",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "873",
+        "nombre_programa": "MICROBIOLOGÍA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias Basicas",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "106502",
+        "nombre_programa": "LIC. EN EDU. FÍSICA, RECREACIÓN Y DEPORTES.",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias de la Educacion",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "106652",
+        "nombre_programa": "LIC. EN EDUCACIÓN INFANTIL",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias de la Educacion",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "870",
+        "nombre_programa": "LIC. EN LENGUAS EXTRANJERAS INGLÉS FRANCÉS",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias de la Educacion",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "9491",
+        "nombre_programa": "ADMINISTRACIÓN DE EMPRESAS",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias Economicas y Empresariales",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "19134",
+        "nombre_programa": "ECONOMÍA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ciencias Economicas y Empresariales",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "11396",
+        "nombre_programa": "ARQUITECTURA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "2890",
+        "nombre_programa": "INGENIERÍA DE ALIMENTOS",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "9245",
+        "nombre_programa": "INGENIERÍA DE SISTEMAS",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "11874",
+        "nombre_programa": "INGENIERÍA DE TELECOMUNICACIONES",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "9818",
+        "nombre_programa": "INGENIERÍA ELÉCTRICA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "2889",
+        "nombre_programa": "INGENIERÍA ELECTRÓNICA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "11455",
+        "nombre_programa": "INGENIERÍA MECÁNICA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "9717",
+        "nombre_programa": "INGENIERÍA MECATRÓNICA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "20651",
+        "nombre_programa": "MAESTRÍA EN CONTROLES INDUSTRIALES",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Maestria"
+    },
+    {
+        "snies": "11578",
+        "nombre_programa": "FISIOTERAPIA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Salud",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "17521",
+        "nombre_programa": "TERAPIA OCUPACIONAL",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Salud",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "11443",
+        "nombre_programa": "BACTERIOLOGÍA Y LABORATORIO CLÍNICO",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Salud",
+        "nivel": "Profesional"
+    },
+    {
+        "snies": "20972",
+        "nombre_programa": "ENFERMERÍA",
+        "Acreditacion": "Alta Calidad",
+        "Facultad": "Salud",
+        "nivel": "Profesional"
+    }
+]

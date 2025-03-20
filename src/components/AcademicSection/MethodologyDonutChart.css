@@ -1,0 +1,58 @@
+.chart-table-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  
+  .donut-chart-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  svg {
+    margin-bottom: 20px;
+  }
+  
+  .info-table {
+    width: 100%;
+    max-width: 400px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-table table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .info-table th, .info-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .info-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .total-row {
+    font-weight: bold;
+    background-color: #e6e6e6;
+  }
+  
+  .donut-chart-text {
+    font-size: 14px;
+    font-weight: bold;
+    text-anchor: middle;
+    fill: #333;
+  }
+  

@@ -1,0 +1,36 @@
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  svg {
+    overflow: visible;
+  }
+  
+  .x-axis text {
+    font-size: 12px;
+  }
+  
+  .y-axis text {
+    font-size: 12px;
+  }
+  
+  .faculty-table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  .faculty-table th, .faculty-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .faculty-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  

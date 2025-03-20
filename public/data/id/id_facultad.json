@@ -1,0 +1,30 @@
+[
+    {
+        "id_facultad": 1,
+        "FACULTAD": "Artes y Humanidades"
+    },
+    {
+        "id_facultad": 2,
+        "FACULTAD": "Ciencias Agrarias"
+    },
+    {
+        "id_facultad": 3,
+        "FACULTAD": "Ciencias Basicas"
+    },
+    {
+        "id_facultad": 4,
+        "FACULTAD": "Ciencias de la Educacion"
+    },
+    {
+        "id_facultad": 5,
+        "FACULTAD": "Ciencias Economicas Y Empresariales"
+    },
+    {
+        "id_facultad": 6,
+        "FACULTAD": "Ingenierias  y Arquitectura"
+    },
+    {
+        "id_facultad": 7,
+        "FACULTAD": "Salud"
+    }
+]

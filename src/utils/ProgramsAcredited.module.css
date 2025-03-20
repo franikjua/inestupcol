@@ -1,0 +1,201 @@
+:root {
+    --font-base: Arial, sans-serif;
+    --padding-main: 15px;
+    --color-text: #333;
+    --color-border: #ddd;
+    --color-bg-filter: #f0f0f0;
+    --color-btn: #007bff;
+    --color-btn-hover: #0056b3;
+    --color-legend: #919B9B;
+    --filter-box-width: 180px;
+    --filter-box-height: 100px;
+  }
+  
+  /* Contenedor principal */
+  .container {
+    font-family: var(--font-base);
+    padding: var(--padding-main);
+  }
+  
+  .container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: var(--color-text);
+  }
+  
+  /* Contenedor padre para filtros y botones */
+  .filterAndButtonContainer {
+    display: flex;
+    align-items: flex-start; /* Alinea verticalmente al inicio */
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Filtros: grid de 6 columnas */
+  .filters {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+    flex-grow: 1; /* Ocupa el espacio disponible */
+  }
+  
+  /* Filtro individual */
+  .filter {
+    background-color: #f9f9f9;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 10px;
+    height: var(--filter-box-height);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  /* Título de filtro */
+  .filter h3 {
+    background-color: var(--color-bg-filter);
+    margin: 0;
+    padding: 4px 8px;
+    font-size: 0.9rem;
+    border-radius: 3px 3px 0 0;
+    text-align: center;
+  }
+  
+  /* Contenedor de ítems de filtro */
+  .filterItems {
+    overflow-y: auto;
+    border: 1px solid var(--color-border);
+    border-top: none;
+    padding: 5px;
+    text-align: left;
+    flex-grow: 1;
+  }
+  
+  /* Etiqueta de checkbox */
+  .filter label {
+    display: block;
+    margin-bottom: 3px;
+    font-size: 0.8rem;
+    text-align: left;
+  }
+  /*Botones de acción*/
+  .filterButton {
+    background-color: #28a745; /* Color verde */
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .filterButton:hover {
+    background-color: #218838; /* Un tono más oscuro al pasar el mouse */
+  }
+  
+  .clearButton {
+    background-color: #dc3545; /* Color rojo */
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .clearButton:hover {
+    background-color: #c82333; /* Un tono más oscuro al pasar el mouse */
+  }
+  /* Contenedor de botones de acción */
+  .buttonContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1rem;
+  }
+  
+  /* Estilos para los botones de filtros */
+  .filters button {
+    padding: 8px 15px;
+    border: none;
+    background-color: var(--color-btn);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .filters button:hover {
+    background-color: var(--color-btn-hover);
+  }
+  
+  /* Contenedor del gráfico */
+  .chartContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Espacio para el toggle */
+  .toggleContainer {
+    margin-bottom: 1rem;
+  }
+  
+  /* Redondeo para el botón del toggle */
+  .toggleContainer button {
+    border-radius: 2rem;
+  }
+  
+  /* Leyenda */
+  .legend {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .legendItem {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 1rem;
+    color: var(--color-legend);
+  }
+  
+  .icon {
+    margin-right: 0.5rem;
+  }
+  
+  /* Total de acreditaciones */
+  .totalAcreditaciones {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: var(--color-text);
+  }
+  
+  .totalAcreditaciones span {
+    font-weight: bold;
+    color: #173F5F;
+  }
+  
+  /* Tooltip ajustado */
+  .tooltip {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px 8px;
+    pointer-events: none;
+    font-size: 0.8rem;
+    text-align: left;
+    z-index: 10;
+  }
+  
+  /* Responsividad */
+  @media (max-width: 768px) {
+    .filters {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 5px;
+    }
+  }
+  

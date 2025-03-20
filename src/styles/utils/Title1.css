@@ -1,0 +1,27 @@
+.title1 {
+  font-size: 3.5rem; /* Ajusta este tamaño según tus necesidades */
+  margin-top: 1rem;                /* Distancia del banner */
+  font-weight: bold;
+  color: rgba(218, 51, 51); /* Blanco con algo de transparencia */
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1); /* Sombra para darle profundidad */  
+  border: 4px solid #ad3333; /* Borde rojo oscuro */
+  padding: 0.5rem;
+  border-radius: 10px; /* Bordes redondeados para darle un toque moderno */
+  box-shadow: 0 0 20px rgba(173, 51, 51, 0.1); /* Sombra alrededor del borde */
+  background-color: rgba(218, 218, 218, 0.1); /* Fondo con transparencia */
+  display: inline-block; /* Ajusta el tamaño del borde al contenido */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Suaviza animaciones */
+  
+}
+
+@media (max-width: 768px) {
+  .title1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .title1 {
+    font-size: 1.5rem;
+  }
+}

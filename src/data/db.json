@@ -1,0 +1,24 @@
+{
+    "programs": [
+      {
+        "semester": "2024-2",
+        "prog_certification": [
+          {
+            "num_prog": 21,
+            "certification": "Alta Calidad",
+            "agency": "CNA"
+          },
+          {
+            "num_prog": 3,
+            "certification": "Internacional",
+            "agency": "-EQUAA"
+          },
+          {
+            "num_prog": 7,
+            "certification": "Internacional",
+            "agency": "ENAEE-EUR-ACE"
+          }
+        ]
+      }
+    ]
+  }

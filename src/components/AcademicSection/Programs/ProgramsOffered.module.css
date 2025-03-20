@@ -1,0 +1,109 @@
+/* Contenedor principal del gráfico */
+.chartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+/* Contenedor del gráfico y la leyenda */
+.chartContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+
+/* Leyenda de colores y certificaciones */
+.legendContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 15px;
+  align-items: center;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+  margin-bottom: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #000;
+}
+
+/* Cuadro de color en la leyenda */
+.legendColor {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 3px;
+  border: 1px solid #333;
+}
+
+/* Tooltip flotante para mostrar detalles */
+.tooltipBox {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  color: #444;
+  font-weight: bold;
+  pointer-events: none;
+  white-space: nowrap;
+  z-index: 10;
+  display: none;
+}
+
+/* Texto dentro de la gráfica de dona */
+.donutChartText {
+  font-size: 14px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #fff;
+}
+
+/* Texto del total de programas en el centro del gráfico */
+.donutTotalText {
+  font-size: 5 rem;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #173F5F;
+}
+
+/* Etiqueta "Programas" debajo del total */
+.donutProgramsLabel {
+  font-size: 14px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #444;
+}
+
+/* Responsividad para pantallas pequeñas */
+@media (max-width: 600px) {
+  .chartContent {
+    max-width: 90%;
+  }
+  .legendContainer {
+    flex-direction: column;
+    align-items: center;
+  }
+  .legendItem {
+    margin-right: 0;
+  }
+  .tooltipBox {
+    font-size: 12px;
+    padding: 8px;
+    white-space: normal;
+  }
+}
+
+/* Responsividad para pantallas medianas */

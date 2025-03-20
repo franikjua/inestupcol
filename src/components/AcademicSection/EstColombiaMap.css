@@ -1,0 +1,20 @@
+.map-container {
+    text-align: center;
+  }
+  
+  svg {
+    display: block;
+    margin: auto;
+  }
+  
+  .tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    visibility: hidden;
+    font-size: 14px;
+  }
+  
+  

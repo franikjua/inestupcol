@@ -1,0 +1,30 @@
+[
+    {
+        "id_estrato": 1,
+        "estr": "Bajo-Bajo"
+    },
+    {
+        "id_estrato": 2,
+        "estr": "Bajo"
+    },
+    {
+        "id_estrato": 3,
+        "estr": "Medio-Bajo"
+    },
+    {
+        "id_estrato": 4,
+        "estr": "Medio"
+    },
+    {
+        "id_estrato": 5,
+        "estr": "Medio-Alto"
+    },
+    {
+        "id_estrato": 6,
+        "estr": "Alto"
+    },
+    {
+        "id_estrato": 999,
+        "estr": "no disp"
+    }
+]

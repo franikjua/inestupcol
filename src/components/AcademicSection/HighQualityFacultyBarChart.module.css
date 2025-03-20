@@ -1,0 +1,145 @@
+/* Contenedor principal del gráfico */
+.chartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+/* Contenedor del gráfico */
+.chartContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+}
+
+/* Contenedor de la leyenda de facultades */
+.legendContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+  align-items: center;
+  gap: 15px;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+/* Cuadro de color en la leyenda */
+.legendColor {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+/* Tooltip flotante para mostrar detalles */
+.tooltipBox {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 12px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  font-size: 11px;
+  color: #333;
+  font-weight: bold;
+  pointer-events: none;
+  white-space: nowrap;
+  z-index: 10;
+  max-width: 300px;
+  min-width: 200px;
+  text-align: left;
+  visibility: hidden;
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Mostrar el tooltip cuando es visible */
+.tooltipBox.visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Centrar el título del tooltip */
+.tooltipBox h4 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+/* Alinear los nombres de los programas a la izquierda */
+.tooltipBox p {
+  text-align: left;
+  margin: 4px 0;
+}
+
+/* Etiqueta del porcentaje en las barras */
+.barLabel {
+  font-size: 14px;
+  font-weight: bold;
+  fill: black;
+}
+
+/* Estilo del total de programas en la parte superior */
+.totalProgramsLabel {
+  font-size: 20px;
+  font-weight: bold;
+  fill: #AD3333;
+  text-anchor: middle;
+}
+
+/* Botón para cambiar entre porcentaje y número total */
+.toggleButton {
+  background-color: #507DAF;
+  color: white;
+  font-size: 14px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  margin-bottom: 15px;
+  transition: all 0.3s ease-in-out;
+}
+
+.toggleButton:hover {
+  background-color: #406a8a;
+  transform: scale(1.05);
+}
+
+/* Responsividad para pantallas pequeñas */
+@media (max-width: 600px) {
+  .chartContent {
+    max-width: 95%;
+  }
+
+  .legendContainer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .legendItem {
+    font-size: 12px;
+  }
+
+  .tooltipBox {
+    font-size: 12px;
+    padding: 10px;
+    max-width: 280px;
+  }
+}
+
+

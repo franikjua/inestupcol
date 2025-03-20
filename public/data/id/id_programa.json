@@ -1,0 +1,286 @@
+[
+    {
+        "id_programa": 51,
+        "programa": "Administracion de Empresas"
+    },
+    {
+        "id_programa": 601,
+        "programa": "Arquitectura"
+    },
+    {
+        "id_programa": 11,
+        "programa": "Artes Visuales"
+    },
+    {
+        "id_programa": 71,
+        "programa": "Bacteriologia y Laboratorio Clinico"
+    },
+    {
+        "id_programa": 31,
+        "programa": "Biologia"
+    },
+    {
+        "id_programa": 12,
+        "programa": "Comunicacion Social"
+    },
+    {
+        "id_programa": 52,
+        "programa": "Contaduria Publica"
+    },
+    {
+        "id_programa": 13,
+        "programa": "Derecho"
+    },
+    {
+        "id_programa": 602,
+        "programa": "Diseno Industrial"
+    },
+    {
+        "id_programa": 603,
+        "programa": "Doctorado en Automatica"
+    },
+    {
+        "id_programa": 604,
+        "programa": "Doctorado en Ciencia Y Tecnologia De Alimentos"
+    },
+    {
+        "id_programa": 53,
+        "programa": "Economia"
+    },
+    {
+        "id_programa": 72,
+        "programa": "enfermeria"
+    },
+    {
+        "id_programa": 54,
+        "programa": "Esp en Desarrollo Economico Regional"
+    },
+    {
+        "id_programa": 14,
+        "programa": "Esp en Edu Artistica"
+    },
+    {
+        "id_programa": 402,
+        "programa": "Esp en Edu Especial e Inclusion Social"
+    },
+    {
+        "id_programa": 403,
+        "programa": "Esp en Edu Formacion Integral de la Infancia"
+    },
+    {
+        "id_programa": 401,
+        "programa": "Esp en edu para la Recreacion Comunitaria"
+    },
+    {
+        "id_programa": 404,
+        "programa": "Esp en Pedagogia Universitaria"
+    },
+    {
+        "id_programa": 605,
+        "programa": "Esp en Seguridad Alimentaria"
+    },
+    {
+        "id_programa": 73,
+        "programa": "Esp en Seguridad y Salud en el Trabajo"
+    },
+    {
+        "id_programa": 606,
+        "programa": "Esp en Sistemas Integrados de Gestion Hseq"
+    },
+    {
+        "id_programa": 15,
+        "programa": "Filosofia"
+    },
+    {
+        "id_programa": 32,
+        "programa": "Fisica"
+    },
+    {
+        "id_programa": 74,
+        "programa": "Fisioterapia"
+    },
+    {
+        "id_programa": 75,
+        "programa": "Fonoaudiologia"
+    },
+    {
+        "id_programa": 33,
+        "programa": "Geologia"
+    },
+    {
+        "id_programa": 21,
+        "programa": "Ingenieria Agronomica"
+    },
+    {
+        "id_programa": 607,
+        "programa": "Ingenieria Ambiental"
+    },
+    {
+        "id_programa": 608,
+        "programa": "Ingenieria Civil"
+    },
+    {
+        "id_programa": 609,
+        "programa": "Ingenieria de Alimentos"
+    },
+    {
+        "id_programa": 610,
+        "programa": "Ingenieria de Sistemas"
+    },
+    {
+        "id_programa": 611,
+        "programa": "Ingenieria Electrica"
+    },
+    {
+        "id_programa": 612,
+        "programa": "Ingenieria Electronica"
+    },
+    {
+        "id_programa": 613,
+        "programa": "Ingenieria en Telecomunicaciones"
+    },
+    {
+        "id_programa": 614,
+        "programa": "Ingenieria Industrial"
+    },
+    {
+        "id_programa": 615,
+        "programa": "Ingenieria Mecanica"
+    },
+    {
+        "id_programa": 616,
+        "programa": "Ingenieria Mecatronica"
+    },
+    {
+        "id_programa": 617,
+        "programa": "Ingenieria Quimica"
+    },
+    {
+        "id_programa": 405,
+        "programa": "Lic Edu Infantil"
+    },
+    {
+        "id_programa": 406,
+        "programa": "Lic en Ciencias Sociales"
+    },
+    {
+        "id_programa": 407,
+        "programa": "Lic en Ciencias Sociales y Desarrollo Local"
+    },
+    {
+        "id_programa": 16,
+        "programa": "Lic en Edu Artistica"
+    },
+    {
+        "id_programa": 408,
+        "programa": "Lic en Edu Basica con enfasis en Edu Fis Recreacion y Dep"
+    },
+    {
+        "id_programa": 409,
+        "programa": "Lic en Edu Fisica Recreacion y Deportes"
+    },
+    {
+        "id_programa": 410,
+        "programa": "Lic en Humanidades y Lengua Castellana"
+    },
+    {
+        "id_programa": 411,
+        "programa": "Lic en Lengua Castellana y Comunicacion"
+    },
+    {
+        "id_programa": 412,
+        "programa": "Lic en Lenguas Extranjeras Ingles-Frances"
+    },
+    {
+        "id_programa": 413,
+        "programa": "Lic Pedagogia Infantil"
+    },
+    {
+        "id_programa": 55,
+        "programa": "Maestria en Administracion"
+    },
+    {
+        "id_programa": 618,
+        "programa": "Maestria en Ciencia y Tecnologia De Los Alimentos"
+    },
+    {
+        "id_programa": 22,
+        "programa": "Maestria en Ciencias Agrarias"
+    },
+    {
+        "id_programa": 414,
+        "programa": "Maestria en Ciencias de la Actividad Fisica y del Deporte"
+    },
+    {
+        "id_programa": 56,
+        "programa": "Maestria en Ciencias Economicas"
+    },
+    {
+        "id_programa": 619,
+        "programa": "Maestria en Controles Industriales"
+    },
+    {
+        "id_programa": 415,
+        "programa": "Maestria en Edu"
+    },
+    {
+        "id_programa": 23,
+        "programa": "Maestria en Extension y Desarrollo Rural"
+    },
+    {
+        "id_programa": 620,
+        "programa": "Maestria en Gestion de Proyectos Informaticos"
+    },
+    {
+        "id_programa": 621,
+        "programa": "Maestria en Ingenieria Ambiental"
+    },
+    {
+        "id_programa": 621,
+        "programa": "Maestria en Ingenieria Industrial"
+    },
+    {
+        "id_programa": 17,
+        "programa": "Maestria en Paz Desarrollo y Resolucion de Conflictos"
+    },
+    {
+        "id_programa": 34,
+        "programa": "Matematica Aplicada"
+    },
+    {
+        "id_programa": 76,
+        "programa": "Medicina"
+    },
+    {
+        "id_programa": 24,
+        "programa": "Medicina Veterinaria"
+    },
+    {
+        "id_programa": 35,
+        "programa": "Microbiologia"
+    },
+    {
+        "id_programa": 18,
+        "programa": "Musica"
+    },
+    {
+        "id_programa": 77,
+        "programa": "Nutricion y Dietetica"
+    },
+    {
+        "id_programa": 78,
+        "programa": "Psicologia"
+    },
+    {
+        "id_programa": 36,
+        "programa": "Quimica"
+    },
+    {
+        "id_programa": 79,
+        "programa": "Terapia Ocupacional"
+    },
+    {
+        "id_programa": 25,
+        "programa": "Zootecnia"
+    }
+]

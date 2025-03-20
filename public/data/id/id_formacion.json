@@ -1,0 +1,14 @@
+[
+    {
+        "id_formacion": 1,
+        "formacion": "Pregrado"
+    },
+    {
+        "id_formacion": 2,
+        "formacion": "Posgrado"
+    },
+    {
+        "id_formacion": 3,
+        "formacion": "Tecnológico"
+    }
+]

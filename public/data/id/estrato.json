@@ -1,0 +1,30 @@
+[
+    {
+        "estrato": 1,
+        "estr": "Bajo-Bajo"
+    },
+    {
+        "estrato": 2,
+        "estr": "Bajo"
+    },
+    {
+        "estrato": 3,
+        "estr": "Medio-Bajo"
+    },
+    {
+        "estrato": 4,
+        "estr": "Medio"
+    },
+    {
+        "estrato": 5,
+        "estr": "Medio-Alto"
+    },
+    {
+        "estrato": 6,
+        "estr": "Alto"
+    },
+    {
+        "estrato": 999,
+        "estr": "no disp"
+    }
+]

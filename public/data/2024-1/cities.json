@@ -1,0 +1,27 @@
+[
+    { "ciudad": "PAMPLONA", "tipo": "Sede", "address": "Km 1 Vía Bucaramanga Ciudad Universitaria Pamplona - Norte de Santander", "latitud": 7.3786, "longitud": -72.6525 },
+    { "ciudad": "BOGOTÁ D.C.", "tipo": "Cread", "address": "Centro" , "latitud": 4.649251, "longitud": -74.106992 },
+    { "ciudad": "BUCARAMANGA", "tipo": "Cread", "address": "Centro","latitud": 7.1254, "longitud": -73.1198 },
+    { "ciudad": "CAJICÁ", "tipo": "Cread", "address": "Centro","latitud": 4.9181, "longitud": -74.0275 },
+    { "ciudad": "CALI", "tipo": "Cread", "address": "Centro","latitud": 3.4516, "longitud": -76.5319 },
+    { "ciudad": "CAQUEZA", "tipo": "Cread", "address": "Centro","latitud": 4.4056, "longitud": -73.9467 },
+    { "ciudad": "CARTAGENA", "tipo": "Cread", "address": "Centro","latitud": 10.3910, "longitud": -75.4794 },
+    { "ciudad": "CHÍA", "tipo": "Cread", "address": "Centro","latitud": 4.8616, "longitud": -74.0326 },
+    { "ciudad": "CHOCONTÁ", "tipo": "Cread", "address": "Centro","latitud": 5.1453, "longitud": -73.6833 },
+    { "ciudad": "DUITAMA", "tipo": "Cread", "address": "Centro","latitud": 5.8269, "longitud": -73.0200 },
+    { "ciudad": "GUADUAS", "tipo": "Cread", "address": "Centro","latitud": 5.0678, "longitud": -74.5964 },
+    { "ciudad": "MEDELLÍN", "tipo": "Cread", "address": "Centro","latitud": 6.2442, "longitud": -75.5812 },
+    { "ciudad": "NOCAIMA", "tipo": "Cread", "address": "Centro","latitud": 5.0697, "longitud": -74.4578 },
+    { "ciudad": "OCAÑA", "tipo": "Cread", "address": "Centro","latitud": 8.2377, "longitud": -73.3560 },
+    { "ciudad": "RIOHACHA", "tipo": "Cread", "address": "Centro","latitud": 11.5444, "longitud": -72.9072 },
+    { "ciudad": "SAN JOSÉ DEL GUAVIARE", "tipo": "Cread", "address": "Centro","latitud": 2.5729, "longitud": -72.6459 },
+    { "ciudad": "SANTA MARTA", "tipo": "Cread", "address": "Centro","latitud": 11.2408, "longitud": -74.1990 },
+    { "ciudad": "SIMIJACA", "tipo": "Cread", "address": "Centro","latitud": 5.5000, "longitud": -73.8500 },
+    { "ciudad": "SINCELEJO", "tipo": "Cread", "address": "Centro","latitud": 9.3047, "longitud": -75.3978 },
+    { "ciudad": "TAUSA", "tipo": "Cread", "address": "Centro","latitud": 5.1983, "longitud": -73.8950 },
+    { "ciudad": "VALLEDUPAR", "tipo": "Cread", "address": "Centro","latitud": 10.4631, "longitud": -73.2532 },
+    { "ciudad": "YOPAL", "tipo": "Cread", "address": "Centro","latitud": 5.3378, "longitud": -72.3959 },
+    { "ciudad": "CÚCUTA", "tipo": "Cread", "address": "Centro","latitud": 7.8891, "longitud": -72.4967 },
+    { "ciudad": "VILLA DEL ROSARIO", "tipo": "Sede", "address": "Autopista Internacional Vía Los Álamos  Villa Antigua Villa del Rosario - Norte de Santander","latitud": 7.8339, "longitud": -72.4742 }
+  ]
+  

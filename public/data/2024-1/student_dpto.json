@@ -1,0 +1,266 @@
+[
+    {
+        "id": "COAMA",
+        "codigo": "91",
+        "nombre": "AMAZONAS",
+        "latitud": "-1.54622768",
+        "longitud": "-71.502128578",
+        "Estudiantes": "6"
+    },
+    {
+        "id": "COANT",
+        "codigo": "05",
+        "nombre": "ANTIOQUIA",
+        "latitud": "6.702032125",
+        "longitud": "-75.504557037",
+        "Estudiantes": "7"
+    },
+    {
+        "id": "COARA",
+        "codigo": "81",
+        "nombre": "ARAUCA",
+        "latitud": "6.569577215",
+        "longitud": "-70.967323937",
+        "Estudiantes": "10"
+    },
+    {
+        "id": "COSAP",
+        "codigo": "88",
+        "nombre": "ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA",
+        "latitud": "12.543115116",
+        "longitud": "-81.717623824",
+        "Estudiantes": "18"
+    },
+    {
+        "id": "COATL",
+        "codigo": "08",
+        "nombre": "ATLANTICO",
+        "latitud": "10.677009534",
+        "longitud": "-74.965219492",
+        "Estudiantes": "8"
+    },
+    {
+        "id": "CODC",
+        "codigo": "11",
+        "nombre": "BOGOTA DISTRITO CAPITAL",
+        "latitud": "4.316107698",
+        "longitud": "-74.181072702",
+        "Estudiantes": "67"
+    },
+    {
+        "id": "COBOL",
+        "codigo": "13",
+        "nombre": "BOLIVAR",
+        "latitud": "8.079796863",
+        "longitud": "-74.235148136",
+        "Estudiantes": "42"
+    },
+    {
+        "id": "COBOY",
+        "codigo": "15",
+        "nombre": "BOYACA",
+        "latitud": "5.891672889",
+        "longitud": "-72.627880544",
+        "Estudiantes": "33"
+    },
+    {
+        "id": "COCAL",
+        "codigo": "17",
+        "nombre": "CALDAS",
+        "latitud": "5.280139978",
+        "longitud": "-75.274983037",
+        "Estudiantes": "45"
+    },
+    {
+        "id": "COCAQ",
+        "codigo": "18",
+        "nombre": "CAQUETA",
+        "latitud": "0.798556195",
+        "longitud": "-73.959467561",
+        "Estudiantes": "7"
+    },
+    {
+        "id": "COCAS",
+        "codigo": "85",
+        "nombre": "CASANARE",
+        "latitud": "5.404064237",
+        "longitud": "-71.601880726",
+        "Estudiantes": "1"
+    },
+    {
+        "id": "COCAU",
+        "codigo": "19",
+        "nombre": "CAUCA",
+        "latitud": "2.396833887",
+        "longitud": "-76.824232828",
+        "Estudiantes": "11"
+    },
+    {
+        "id": "COCES",
+        "codigo": "20",
+        "nombre": "CESAR",
+        "latitud": "9.53665993",
+        "longitud": "-73.517831544",
+        "Estudiantes": "21"
+    },
+    {
+        "id": "COCHO",
+        "codigo": "27",
+        "nombre": "CHOCO",
+        "latitud": "5.397581542",
+        "longitud": "-76.942811002",
+        "Estudiantes": "5"
+    },
+    {
+        "id": "COCOR",
+        "codigo": "23",
+        "nombre": "CORDOBA",
+        "latitud": "8.358549754",
+        "longitud": "-75.792008718",
+        "Estudiantes": "3"
+    },
+    {
+        "id": "COCUN",
+        "codigo": "25",
+        "nombre": "CUNDINAMARCA",
+        "latitud": "4.771120716",
+        "longitud": "-74.431110916",
+        "Estudiantes": "73"
+    },
+    {
+        "id": "COGUA",
+        "codigo": "94",
+        "nombre": "GUANIA",
+        "latitud": "2.727842865",
+        "longitud": "-68.816612721",
+        "Estudiantes": "14"
+    },
+    {
+        "id": "COGUV",
+        "codigo": "95",
+        "nombre": "GUAVIARE",
+        "latitud": "1.924531973",
+        "longitud": "-72.128595691",
+        "Estudiantes": "7"
+    },
+    {
+        "id": "COHUI",
+        "codigo": "41",
+        "nombre": "HUILA",
+        "latitud": "2.570143029",
+        "longitud": "-75.584348363",
+        "Estudiantes": "9"
+    },
+    {
+        "id": "COLAG",
+        "codigo": "44",
+        "nombre": "LA GUAJIRA",
+        "latitud": "11.476870077",
+        "longitud": "-72.429510724",
+        "Estudiantes": "23"
+    },
+    {
+        "id": "COMAG",
+        "codigo": "47",
+        "nombre": "MAGDALENA",
+        "latitud": "10.24738355",
+        "longitud": "-74.26175733",
+        "Estudiantes": "13"
+    },
+    {
+        "id": "COMET",
+        "codigo": "50",
+        "nombre": "META",
+        "latitud": "3.345562732",
+        "longitud": "-72.95645988",
+        "Estudiantes": "8"
+    },
+    {
+        "id": "CONAR",
+        "codigo": "52",
+        "nombre": "NARIÑO",
+        "latitud": "1.571094987",
+        "longitud": "-77.87020496",
+        "Estudiantes": "7"
+    },
+    {
+        "id": "CONSA",
+        "codigo": "54",
+        "nombre": "NORTE DE SANTANDER",
+        "latitud": "8,09513751",
+        "longitud": "-72.881882969",
+        "Estudiantes": "17"
+    },
+    {
+        "id": "COPUT",
+        "codigo": "86",
+        "nombre": "PUTUMAYO",
+        "latitud": "0.3673031",
+        "longitud": "-75.514061833",
+        "Estudiantes": "93"
+    },
+    {
+        "id": "COQUI",
+        "codigo": "63",
+        "nombre": "QUINDIO",
+        "latitud": "4.455241567",
+        "longitud": "-75.689628528",
+        "Estudiantes": "79"
+    },
+    {
+        "id": "CORIS",
+        "codigo": "66",
+        "nombre": "RISARALDA",
+        "latitud": "5.240757239",
+        "longitud": "-76.002444694",
+        "Estudiantes": "31"
+    },
+    {
+        "id": "COSAN",
+        "codigo": "68",
+        "nombre": "SANTANDER",
+        "latitud": "6.693633184",
+        "longitud": "-73.486008938",
+        "Estudiantes": "6"
+    },
+    {
+        "id": "COSUC",
+        "codigo": "70",
+        "nombre": "SUCRE",
+        "latitud": "9.064941448",
+        "longitud": "-75.109817552",
+        "Estudiantes": "379"
+    },
+    {
+        "id": "COTOL",
+        "codigo": "73",
+        "nombre": "TOLIMA",
+        "latitud": "4.03477252",
+        "longitud": "-75.255827095",
+        "Estudiantes": "8"
+    },
+    {
+        "id": "COVAC",
+        "codigo": "76",
+        "nombre": "VALLE DEL CAUCA",
+        "latitud": "3.569858693",
+        "longitud": "-76.62850427",
+        "Estudiantes": "15"
+    },
+    {
+        "id": "COVAU",
+        "codigo": "97",
+        "nombre": "VAUPES",
+        "latitud": "0.64624561",
+        "longitud": "-70.561405657",
+        "Estudiantes": "17"
+    },
+    {
+        "id": "COVID",
+        "codigo": "99",
+        "nombre": "VICHADA",
+        "latitud": "4.713557125",
+        "longitud": "-69.41400011",
+        "Estudiantes": "7"
+    }
+]

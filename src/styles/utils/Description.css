@@ -1,0 +1,21 @@
+.description {
+  font-size: 1rem;
+  color: #7f8c8d;
+  line-height: 1.5;
+  margin: 10px auto;
+  max-width: 800px;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  .description {
+    font-size: 0.9rem;
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .description {
+    font-size: 0.8rem;
+  }
+}

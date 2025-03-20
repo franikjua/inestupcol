@@ -1,0 +1,122 @@
+/* Contenedor principal del gráfico */
+.chartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+/* Contenedor del gráfico y la leyenda */
+.chartContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Leyenda de colores y facultades en una sola línea */
+.legendContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 15px;
+  align-items: center;
+  gap: 15px;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #000;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+/* Cuadro de color en la leyenda */
+.legendColor {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 3px;
+  border: 1px solid #333;
+}
+
+/* Tooltip flotante para mostrar detalles */
+.tooltipBox {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 12px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: 12px;
+  color: #444;
+  font-weight: bold;
+  pointer-events: none;
+  white-space: normal;
+  z-index: 10;
+  max-width: 300px;
+  min-width: 200px;
+  display: none;
+}
+
+/* Centrar el nombre de la agencia */
+.tooltipBox h4 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+/* Alinear los nombres de los programas a la izquierda */
+.tooltipBox p {
+  text-align: left;
+  margin: 4px 0;
+}
+
+/* Texto dentro de la gráfica de dona */
+.donutChartText {
+  font-size: 14px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #fff;
+}
+
+/* Texto del total de certificaciones en el centro del gráfico */
+.donutTotalText {
+  font-size: 40px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #AD3333;
+}
+
+/* Etiqueta "Internacional" debajo del total */
+.donutProgramsLabel {
+  font-size: 14px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #507DAF;
+}
+
+/* Responsividad para pantallas pequeñas */
+@media (max-width: 600px) {
+  .chartContent {
+    max-width: 90%;
+  }
+  .legendContainer {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .legendItem {
+    margin-right: 10px;
+    gap: 5px;
+  }
+  .tooltipBox {
+    font-size: 12px;
+    padding: 10px;
+    max-width: 280px;
+  }
+}

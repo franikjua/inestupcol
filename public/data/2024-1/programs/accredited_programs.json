@@ -1,0 +1,1136 @@
+[
+    {
+        "SNIES": "11452",
+        "PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Distancia",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9491",
+        "PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11396",
+        "PROGRAMA": "ARQUITECTURA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "101468",
+        "PROGRAMA": "ARTES VISUALES",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11443",
+        "PROGRAMA": "BACTERIOLOGIA Y LABORATORIO CLINICO",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11305",
+        "PROGRAMA": "BIOLOGIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS BASICAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9440",
+        "PROGRAMA": "COMUNICACION SOCIAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "19816",
+        "PROGRAMA": "COMUNICACION SOCIAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11835",
+        "PROGRAMA": "CONTADURIA PUBLICA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Distancia",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "10159",
+        "PROGRAMA": "CONTADURIA PUBLICA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "52382",
+        "PROGRAMA": "DERECHO",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "51736",
+        "PROGRAMA": "DISEÑO INDUSTRIAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "108300",
+        "PROGRAMA": "DOCTORADO EN AUTOMATICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Doctorado",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "105808",
+        "PROGRAMA": "DOCTORADO EN CIENCIA Y TECNOLOGIA DE ALIMENTOS",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Doctorado",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "19134",
+        "PROGRAMA": "ECONOMIA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Distancia",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9980",
+        "PROGRAMA": "ECONOMIA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "20972",
+        "PROGRAMA": "ENFERMERIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "53281",
+        "PROGRAMA": "ESPECIALIZACION EN DESARROLLO ECONOMICO REGIONAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Virtual",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "105090",
+        "PROGRAMA": "ESPECIALIZACION EN EDU. ARTISTICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11337",
+        "PROGRAMA": "ESPECIALIZACION EN EDU. PARA LA RECREACION COMUNITARIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "52423",
+        "PROGRAMA": "ESPECIALIZACION EN EDU: EDU. ESPECIAL E INCLUSIÓN SOCIAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "52589",
+        "PROGRAMA": "ESPECIALIZACION EN EDU: FORMACION INTEGRAL DE LA INFANCIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11941",
+        "PROGRAMA": "ESPECIALIZACION EN PEDAGOGIA UNIVERSITARIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "103781",
+        "PROGRAMA": "ESPECIALIZACION EN SEGURIDAD ALIMENTARIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "103780",
+        "PROGRAMA": "ESPECIALIZACION EN SEGURIDAD ALIMENTARIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "108303",
+        "PROGRAMA": "ESPECIALIZACION EN SEGURIDAD Y SALUD EN EL TRABAJO",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "104322",
+        "PROGRAMA": "ESPECIALIZACION EN SISTEMAS INTEGRADOS DE GESTION HSEQ",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Especializacion",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11927",
+        "PROGRAMA": "FILOSOFIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9761",
+        "PROGRAMA": "FISICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS BASICAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11578",
+        "PROGRAMA": "FISIOTERAPIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "17524",
+        "PROGRAMA": "FONOAUDIOLOGIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "51836",
+        "PROGRAMA": "GEOLOGIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS BASICAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "17733",
+        "PROGRAMA": "ING. AGRONOMICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS AGRARIAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9806",
+        "PROGRAMA": "ING. AMBIENTAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "52397",
+        "PROGRAMA": "ING. CIVIL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "2890",
+        "PROGRAMA": "ING. DE ALIMENTOS",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9245",
+        "PROGRAMA": "ING. DE SISTEMAS",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9818",
+        "PROGRAMA": "ING. ELECTRICA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "2889",
+        "PROGRAMA": "ING. ELECTRONICA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11874",
+        "PROGRAMA": "ING. EN TELECOMUNICACIONES",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9899",
+        "PROGRAMA": "ING. INDUSTRIAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11455",
+        "PROGRAMA": "ING. MECANICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9717",
+        "PROGRAMA": "ING. MECATRONICA",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "53408",
+        "PROGRAMA": "ING. QUIMICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "106652",
+        "PROGRAMA": "LIC. EDU. INFANTIL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "116220",
+        "PROGRAMA": "LIC. EN CIENCIAS SOCIALES",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "104562",
+        "PROGRAMA": "LIC. EN CIENCIAS SOCIALES Y DESARROLLO LOCAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "104527",
+        "PROGRAMA": "LIC. EN EDU. ARTISTICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "4541",
+        "PROGRAMA": "LIC. EN EDU. BASICA CON ENFASIS EN EDU. FISICA RECREACION Y DEPORTES ",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Distancia",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "866",
+        "PROGRAMA": "LIC. EN EDU. BASICA CON ENFASIS EN EDU. FISICA RECREACION Y DEPORTES ",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "106502",
+        "PROGRAMA": "LIC. EN EDU. FISICA RECREACION Y DEPORTES",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "109336",
+        "PROGRAMA": "LIC. EN EDU. FISICA RECREACION Y DEPORTES",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Distancia",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "106598",
+        "PROGRAMA": "LIC. EN HUMANIDADES Y LENGUA CASTELLANA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "108369",
+        "PROGRAMA": "LIC. EN HUMANIDADES Y LENGUA CASTELLANA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "4261",
+        "PROGRAMA": "LIC. EN LENGUA CASTELLANA Y COMUNICACION",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "870",
+        "PROGRAMA": "LIC. EN LENGUAS EXTRANJERAS: INGLES-FRANCES",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11334",
+        "PROGRAMA": "LIC. PEDAGOGIA INFANTIL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "106497",
+        "PROGRAMA": "MAESTRIA EN ADMINISTRACION",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Distancia",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "19952",
+        "PROGRAMA": "MAESTRIA EN CIENCIA Y TECNOLOGIA DE LOS ALIMENTOS",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "107378",
+        "PROGRAMA": "MAESTRIA EN CIENCIAS AGRARIAS",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS AGRARIAS",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "19869",
+        "PROGRAMA": "MAESTRIA EN CIENCIAS DE LA ACTIVIDAD FISICA Y DEL DEPORTE",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "104842",
+        "PROGRAMA": "MAESTRIA EN CIENCIAS ECONOMICAS",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Virtual",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "20651",
+        "PROGRAMA": "MAESTRIA EN CONTROLES INDUSTRIALES",
+        "ACREDITACION": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "104767",
+        "PROGRAMA": "MAESTRIA EN EDUCACION",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Virtual",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "52547",
+        "PROGRAMA": "MAESTRIA EN EDUCACION",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS DE LA EDUCACION",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "105602",
+        "PROGRAMA": "MAESTRIA EN EXTENSION Y DESARROLLO RURAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS AGRARIAS",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "51875",
+        "PROGRAMA": "MAESTRIA EN GESTION DE PROYECTOS INFORMÁTICOS",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "53817",
+        "PROGRAMA": "MAESTRIA EN ING. AMBIENTAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "103487",
+        "PROGRAMA": "MAESTRIA EN ING. INDUSTRIAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "INGENIERIAS  Y ARQUITECTURA",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "52655",
+        "PROGRAMA": "MAESTRIA EN PAZ DESARROLLO Y RESOLUCION DE CONFLICTOS",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Posgrado",
+        "NIVEL": "Maestria",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "106365",
+        "PROGRAMA": "MATEMATICA APLICADA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS BASICAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "51812",
+        "PROGRAMA": "MEDICINA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "14771",
+        "PROGRAMA": "MEDICINA VETERINARIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS AGRARIAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "873",
+        "PROGRAMA": "MICROBIOLOGIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS BASICAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "9547",
+        "PROGRAMA": "MÚSICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "ARTES Y HUMANIDADES",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "116844",
+        "PROGRAMA": "NUTRICION Y DIETETICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "11577",
+        "PROGRAMA": "NUTRICION Y DIETETICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "12006",
+        "PROGRAMA": "PSICOLOGÍA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "17734",
+        "PROGRAMA": "QUÍMICA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS BASICAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "17521",
+        "PROGRAMA": "TERAPIA OCUPACIONAL",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "SALUD",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    },
+    {
+        "SNIES": "14772",
+        "PROGRAMA": "ZOOTECNIA",
+        "ACREDITACION": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "FACULTAD": "CIENCIAS AGRARIAS",
+        "FORMACION": "Pregrado",
+        "NIVEL": "Profesional",
+        "MODALIDAD": "Presencial",
+        "ESTADO": "VIGENTE"
+    }
+]

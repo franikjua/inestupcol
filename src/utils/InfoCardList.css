@@ -1,0 +1,105 @@
+/* Contenedor de todas las tarjetas */
+.info-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); /* 2 tarjetas por fila */
+    gap: 20px; /* Espacio entre tarjetas */
+    max-width: 900px; /* Controla el ancho */
+    margin: auto; /* Centra el bloque */
+}
+
+/* Cada tarjeta */
+.info-card {
+    display: flex;
+    align-items: flex-start; /* Alinea los elementos al inicio (arriba) */
+    gap: 15px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    height: auto; /* Se ajusta a su contenido */
+}
+
+/* Alternar diseño */
+.info-card:nth-child(odd) {
+    flex-direction: row;
+}
+
+.info-card:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+/* Imagen */
+.info-card-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+/* Contenido */
+.info-card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Alinea el texto al inicio (arriba) */
+    text-align: left; /* Alinea el texto a la izquierda */
+    flex: 1;
+}
+
+/* Ajuste de título */
+.info-card-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+/* Descripción */
+.info-card-description {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #666;
+    text-align: justify;
+}
+
+/* Hover */
+.info-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .info-cards-container {
+        grid-template-columns: 1fr; /* Solo una tarjeta por fila */
+    }
+
+    .info-card {
+        flex-direction: column;
+        text-align: left;
+    }
+
+    .info-card:nth-child(even),
+    .info-card:nth-child(odd) {
+        flex-direction: column;
+    }
+
+    .info-card-image {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 10px;
+    }
+
+    .info-card-title {
+        font-size: 16px;
+    }
+
+    .info-card-description {
+        font-size: 13px;
+    }
+}
+
+  

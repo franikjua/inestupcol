@@ -1,0 +1,62 @@
+/* Contenedor principal del gráfico de barras */
+.bar-chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  /* SVG gráfico responsivo */
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Caja de información */
+  .info-box {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #f5f5f5; /* Fondo neutro */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    max-width: 300px;
+    text-align: left;
+  }
+  
+  /* Título dentro de la caja de información */
+  .info-box h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Texto dentro de la caja de información */
+  .info-box p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Ajustes responsivos */
+  @media (max-width: 768px) {
+    svg {
+      height: 300px; /* Ajuste de altura en pantallas más pequeñas */
+    }
+  
+    .info-box {
+      font-size: 13px; /* Texto más pequeño */
+      padding: 10px; /* Reduce relleno */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    svg {
+      height: 250px; /* Altura para dispositivos muy pequeños */
+    }
+  
+    .info-box {
+      font-size: 12px; /* Texto más compacto */
+      padding: 8px; /* Relleno más pequeño */
+    }
+  }
+  

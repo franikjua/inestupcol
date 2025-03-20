@@ -1,0 +1,82 @@
+[
+    {
+        "snies": "9491",
+        "nombre_programa": "ADMINISTRACIÓN DE EMPRESAS",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ciencias Economicas y Empresariales",
+        "nivel": "Profesional",
+        "Agencia": "EQUAA"
+    },
+    {
+        "snies": "11835",
+        "nombre_programa": "CONTADURIA PÚBLICA",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ciencias Economicas y Empresariales",
+        "nivel": "Profesional",
+        "Agencia": "EQUAA"
+    },
+    {
+        "snies": "19134",
+        "nombre_programa": "ECONOMÍA",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ciencias Economicas y Empresariales",
+        "nivel": "Profesional",
+        "Agencia": "EQUAA"
+    },
+    {
+        "snies": "2890",
+        "nombre_programa": "INGENIERÍA DE ALIMENTOS",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional",
+        "Agencia": "ENAEE"
+    },
+    {
+        "snies": "9245",
+        "nombre_programa": "INGENIERÍA DE SISTEMAS",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional",
+        "Agencia": "ENAEE"
+    },
+    {
+        "snies": "11874",
+        "nombre_programa": "INGENIERÍA EN TELECOMUNICACIONES",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional",
+        "Agencia": "ENAEE"
+    },
+    {
+        "snies": "9818",
+        "nombre_programa": "INGENIERÍA ELÉCTRICA",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional",
+        "Agencia": "ENAEE"
+    },
+    {
+        "snies": "2889",
+        "nombre_programa": "INGENIERÍA ELECTRÓNICA",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional",
+        "Agencia": "ENAEE"
+    },
+    {
+        "snies": "9717",
+        "nombre_programa": "INGENIERÍA MECATRÓNICA",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Profesional",
+        "Agencia": "ENAEE"
+    },
+    {
+        "snies": "20651",
+        "nombre_programa": "MAESTRÍA EN CONTROLES INDUSTRIALES",
+        "Acreditacion": "Internacional",
+        "Facultad": "Ingenierias  y Arquitectura",
+        "nivel": "Maestria",
+        "Agencia": "ENAEE"
+    }
+]
