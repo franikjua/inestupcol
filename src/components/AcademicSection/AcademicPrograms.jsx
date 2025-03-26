@@ -5,6 +5,7 @@ import Description from '../../utils/Description';
 import ProgramsInfo from './Programs/ProgramsInfo';
 import ProgramsGeneral from '../../utils/ProgramsGeneral'
 import ProgramsFaculty from '../../utils/ProgramsFaculty'
+import MapSedesCreadPrograms from '../../utils/MapSedesCreadPrograms'
 import ProgramsTd from '../../utils/ProgramsTd';
 
 
@@ -36,6 +37,10 @@ const AcademicSection = ({ semester }) => {
         <div id="Distribucion-programas-facultad">
                 <ProgramsFaculty jsonDataPath={`/data/${semester}/programs/programs_general.json`}
                         title="Distribución de programas por facultad" />
+        </div>
+        <div id="Distribucion-programas-sede-cread">
+                <MapSedesCreadPrograms programsJsonPath={`/data/${semester}/programs/programs_sedes_general.json`}
+                        title="Distribución de programas por Sede y Cread" />
         </div>
         <div id="Tabla-programas"></div>
         <ProgramsTd jsonDataPath={`/data/${semester}/programs/programs_general.json`}

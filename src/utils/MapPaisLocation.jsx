@@ -5,7 +5,7 @@ import "leaflet/dist/leaflet.css";
 import styles from "./MapSedeLocation.module.css";
 import Title3 from "./Title3";
 
-const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPath
+const MapSedeLocation = ({ citiesJsonPath, title, tooltipTitle }) => {
   const [data, setData] = useState([]);
   const [totalStudents, setTotalStudents] = useState(0);
   const [totalHombres, setTotalHombres] = useState(0);
@@ -15,6 +15,7 @@ const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPat
     fetch(citiesJsonPath)
       .then((res) => res.json())
       .then((cityData) => {
+        console.log("Datos cargados:", cityData);
         setData(cityData);
         const total = cityData.reduce((sum, item) => sum + item.hombres + item.mujeres, 0);
         const totalH = cityData.reduce((sum, item) => sum + item.hombres, 0);
@@ -24,7 +25,7 @@ const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPat
         setTotalMujeres(totalM);
       })
       .catch((error) => console.error("Error loading data:", error));
-  }, [citiesJsonPath]); // Eliminado geoJsonPath
+  }, [citiesJsonPath]);
 
   const getColorAndSize = (percentage) => {
     if (percentage <= 1) return { color: "#FFF000", size: 30 };
@@ -54,14 +55,14 @@ const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPat
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution="&copy; OpenStreetMap contributors"
         />
-        {data.map((item, index) => {
+        {data.map((item) => {
           const totalDept = item.hombres + item.mujeres;
           const rawPercentage = totalStudents > 0 ? (totalDept / totalStudents) * 100 : 0;
           const { color, size } = getColorAndSize(rawPercentage);
           const percentage = rawPercentage.toFixed(2);
           return (
             <Marker
-              key={index}
+              key={item.id}
               position={[item.latitud, item.longitud]}
               icon={L.divIcon({
                 className: styles.mapslCustomMarker,
@@ -70,7 +71,7 @@ const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPat
                     <div class="${styles.mapslCityCircle}" 
                       style="width: ${size}px; height: ${size}px; background-color: ${color}; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
                       <div style="text-align: center;">
-                        <span class="${styles.mapslCityName}">${item.NOMBRE_DPT}</span><br>
+                        <span class="${styles.mapslCityName}">${item.name}</span><br>
                         <span class="${styles.mapslCityNumber}">${percentage}%</span>
                       </div>
                     </div>
@@ -83,8 +84,8 @@ const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPat
                 <table>
                   <tbody>
                     <tr>
-                      <th>Depto</th>
-                      <td>{item.NOMBRE_DPT}</td>
+                      <th>{tooltipTitle}</th>
+                      <td>{item.name}</td>
                     </tr>
                     <tr>
                       <th>Total</th>
@@ -110,7 +111,5 @@ const MapSedeLocation = ({ citiesJsonPath, title }) => { // Eliminado geoJsonPat
 };
 
 export default MapSedeLocation;
-
-
 
 

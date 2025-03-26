@@ -12,6 +12,11 @@
   overflow: hidden;
 }
 
+.mapslCustomMarker {
+  background: none;
+  border: none;
+}
+
 .mapslCityMarker {
   display: flex;
   flex-direction: column;
@@ -20,7 +25,6 @@
 }
 
 .mapslCityCircle {
-  border-radius: 50%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -39,7 +43,64 @@
   font-size: 14px;
 }
 
-.mapslCustomMarker {
-  background: none;
-  border: none;
+/* Estilos para los totales */
+.mapsTotalsWrapper {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.mapsTotalStudents {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.mapsGenderTotals {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.mapsGenderTotals p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+/* Ajustes responsivos */
+@media (max-width: 768px) {
+  .mapslMapContainer {
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  .mapsTotalStudents {
+    font-size: 1rem;
+  }
+
+  .mapsGenderTotals {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .mapsGenderTotals p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .mapslCityName {
+    font-size: 10px;
+  }
+
+  .mapslCityNumber {
+    font-size: 12px;
+  }
+
+  .mapsTotalStudents {
+    font-size: 0.9rem;
+  }
+
+  .mapsGenderTotals p {
+    font-size: 0.8rem;
+  }
 }

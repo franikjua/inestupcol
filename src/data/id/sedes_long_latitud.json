@@ -1,0 +1,80 @@
+[
+    {
+        "id_sede_cread": 54518,
+        "tipo": "SEDE",
+        "latitud": 7.3786,
+        "longitud": -72.6525
+    },
+    {
+        "id_sede_cread": 11001,
+        "tipo": "CREAD",
+        "latitud": 4.649251,
+        "longitud": -74.106992
+    },
+    {
+        "id_sede_cread": 68001,
+        "tipo": "CREAD",
+        "latitud": 7.1254,
+        "longitud": -73.1198
+    },
+    {
+        "id_sede_cread": 13001,
+        "tipo": "CREAD",
+        "latitud": 10.391,
+        "longitud": -75.4794
+    },
+    {
+        "id_sede_cread": 15238,
+        "tipo": "CREAD",
+        "latitud": 5.8269,
+        "longitud": -73.02
+    },
+    {
+        "id_sede_cread": 44001,
+        "tipo": "CREAD",
+        "latitud": 11.5444,
+        "longitud": -72.9072
+    },
+    {
+        "id_sede_cread": 95001,
+        "tipo": "CREAD",
+        "latitud": 2.5729,
+        "longitud": -72.6459
+    },
+    {
+        "id_sede_cread": 47001,
+        "tipo": "CREAD",
+        "latitud": 11.2408,
+        "longitud": -74.199
+    },
+    {
+        "id_sede_cread": 70001,
+        "tipo": "CREAD",
+        "latitud": 9.3047,
+        "longitud": -75.3978
+    },
+    {
+        "id_sede_cread": 20001,
+        "tipo": "CREAD",
+        "latitud": 10.4631,
+        "longitud": -73.2532
+    },
+    {
+        "id_sede_cread": 85001,
+        "tipo": "CREAD",
+        "latitud": 5.3378,
+        "longitud": -72.3959
+    },
+    {
+        "id_sede_cread": 54001,
+        "tipo": "CREAD",
+        "latitud": 7.8891,
+        "longitud": -72.4967
+    },
+    {
+        "id_sede_cread": 54874,
+        "tipo": "SEDE",
+        "latitud": 7.8339,
+        "longitud": -72.4742
+    }
+]

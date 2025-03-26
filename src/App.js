@@ -70,6 +70,7 @@ function App() {
 
             {/* Otras secciones */}
             <Route path="/rsu" element={<RSUSection semester={selectedSemester} />} />
+            
             <Route path="/talento-humano" element={<TalentSection semester={selectedSemester} />} />
             <Route path="/graduados" element={<GraduatesSection semester={selectedSemester} />} />
             <Route path="/educacion-continua" element={<ContinuousEducationSection semester={selectedSemester} />} />

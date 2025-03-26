@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/NavBar.css';
+import { path } from 'd3';
 
 const menuItems = [
   {
@@ -12,25 +13,26 @@ const menuItems = [
           { label: 'Información', path: '/academic/accreditation#info-acreditaciones' },
           { label: 'Distribución', path: '/academic/accreditation#distribucion-acreditaciones' },
           { label: 'Facultades', path: '/academic/accreditation#Facultades-Programas-Acreditados' },
-          { label: 'Datos', path: '/academic/accreditation#Tabla-Acreditaciones' }
+          { label: 'Tabla de datos', path: '/academic/accreditation#Tabla-Acreditaciones' }
         ]
       },
       {
         name: 'Programas',
         items: [          
           { label: 'Información', path: '/academic/programs#info-programs' },
-          { label: 'Distribución', path: '/academic/programs#Distribucion-programas-metodologia' },
+          { label: 'metodología', path: '/academic/programs#Distribucion-programas-metodologia' },
           { label: 'Facultades', path: '/academic/programs#Distribucion-programas-facultad' },
-          { label: 'Datos', path: '/academic/programs#Tabla-programas' }
+          { label: 'Mapa sedes', path: '/academic/programs#mapa-programas-sede-cread' },
+          { label: 'Tabla de datos', path: '/academic/programs#Tabla-programas' }
         ]
       },
       {
         name: 'Estudiantes',
         items: [
-          { label: 'información', path: '/academic/students#estudiantes-info' },
-          { label: 'Matr genero', path: '/academic/students#estudiantes-matriculados-Genero' },
-          { label: 'Matr facultad', path: '/academic/students#estudiantes-matriculados-facultad' },
-          { label: 'Mapa procedencia', path: '/academic/students#estudiantes-departamento-procedencia' },
+          { label: 'intro matriculados', path: '/academic/students#estudiantes-info' },
+          { label: 'Genero', path: '/academic/students#estudiantes-matriculados-Genero' },
+          { label: 'Facultad', path: '/academic/students#estudiantes-matriculados-facultad' },
+          { label: 'Mapa dpto pais', path: '/academic/students#estudiantes-dpto-pais-procedencia' },
           { label: 'Tabla de datos', path: '/academic/students#tabla-estudiantes' }
         ]
       },
@@ -70,7 +72,12 @@ const menuItems = [
     subMenus: [
       {
         name: null,
-        items: [{ label: 'Datos de Personal', path: '/talento-humano' }]
+        items: [
+          { label: 'Descripción', path: '/talento-humano/#descripcion-docente'},
+          { label: 'Datos de Personal', path: '/talento-humano' },
+          { label: 'Genero', path: '/talento-humano#docentes-sexo'},
+          { label: 'Escolaridad', path: '/talento-humano#docentes-escolaridad-sexo' }
+        ]
       }
     ]
   },

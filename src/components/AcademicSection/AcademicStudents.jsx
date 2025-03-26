@@ -4,7 +4,7 @@ import Title2 from '../../utils/Title2';
 import Description from '../../utils/Description';
 import NumberPeopleSex from '../../utils/NumberPeopleSex';
 import StudentFaculty from '../../utils/StudentFaculty';
-import MapSedeLocation from '../../utils/MapSedeLocation';
+import MapStudentDptoPais from '../../utils/MapStudentDptoPais'
 import DtEnrolledStudents from '../../utils/DtEnrolledStudents';
 
 const Academicstudents = ({ semester }) => {
@@ -36,11 +36,12 @@ const Academicstudents = ({ semester }) => {
                 <StudentFaculty jsonDataPath={`/data/${semester}/programs/matriculados_programas.json`}
                         title="Estudiantes matriculados por Facultad" />
         </div>
-        <div id="estudiantes-departamento-procedencia">
-                <MapSedeLocation
-                        citiesJsonPath={`/data/${semester}/programs/dpto_student.json`} 
-                        geoJsonPath="/data/colombia.geo.json"
-                        title="Distribución de Estudiantes por Departamento de Procedencia"
+        
+        <div id="estudiantes-dpto-pais-procedencia">
+                <MapStudentDptoPais
+                        dataJsonPath={`/data/${semester}/programs/student_dpto_pais.json`}
+                        tooltipTitle="Pais"                        
+                        title="Distribución de Estudiantes por Dpto y Pais de Procedencia"
                 />
         </div>
         <div id="tabla-estudiantes">            

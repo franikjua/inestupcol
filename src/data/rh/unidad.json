@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "nombre": "PREUNIVERSITARIO"
+    },
+    {
+        "id": 2,
+        "nombre": "FACULTAD DE SALUD"
+    },
+    {
+        "id": 3,
+        "nombre": "FACULTAD DE INGENIERIAS Y ARQUITECTURA"
+    },
+    {
+        "id": 4,
+        "nombre": "FACULTAD DE CIENCIAS ECONOMICAS Y EMPRESARIALES"
+    },
+    {
+        "id": 5,
+        "nombre": "FACULTAD DE CIENCIAS DE LA EDUCACION"
+    },
+    {
+        "id": 6,
+        "nombre": "FACULTAD DE CIENCIAS BASICAS"
+    },
+    {
+        "id": 7,
+        "nombre": "FACULTAD DE CIENCIAS AGRARIAS"
+    },
+    {
+        "id": 8,
+        "nombre": "FACULTAD DE ARTES Y HUMANIDADES"
+    },
+    {
+        "id": 9,
+        "nombre": "DEPARTAMENTO DE TERAPIA OCUPACIONAL"
+    },
+    {
+        "id": 10,
+        "nombre": "DEPARTAMENTO DE PEDAGOGIA,EDUCACION ESPECIAL Y CIENCIAS SOCIALES"
+    },
+    {
+        "id": 11,
+        "nombre": "DEPARTAMENTO DE NUTRICION Y DIETETICA"
+    },
+    {
+        "id": 12,
+        "nombre": "DEPARTAMENTO DE MICROBIOLOGIA"
+    },
+    {
+        "id": 13,
+        "nombre": "DEPARTAMENTO DE MEDICINA VETERINARIA Y ZOOTECNIA"
+    },
+    {
+        "id": 14,
+        "nombre": "DEPARTAMENTO DE MEDICINA"
+    },
+    {
+        "id": 15,
+        "nombre": "DEPARTAMENTO DE MECANICA, MECATRONICA E INDUSTRIAL"
+    },
+    {
+        "id": 16,
+        "nombre": "DEPARTAMENTO DE MATEMATICAS"
+    },
+    {
+        "id": 17,
+        "nombre": "DEPARTAMENTO DE INGENIERIA CIVIL Y AMBIENTAL"
+    },
+    {
+        "id": 18,
+        "nombre": "DEPARTAMENTO DE FONOAUDIOLOGIA"
+    },
+    {
+        "id": 19,
+        "nombre": "DEPARTAMENTO DE FISIOTERAPIA"
+    },
+    {
+        "id": 20,
+        "nombre": "DEPARTAMENTO DE FISICA Y GEOLOGIA"
+    },
+    {
+        "id": 21,
+        "nombre": "DEPARTAMENTO DE ENFERMERIA"
+    },
+    {
+        "id": 22,
+        "nombre": "DEPARTAMENTO DE ELECTRONICA ELECTRICA, TELECOMUNICACIONES Y SISTEMAS"
+    },
+    {
+        "id": 23,
+        "nombre": "DEPARTAMENTO DE EDUCACION FISICA RECREACION Y DEPORTES"
+    },
+    {
+        "id": 24,
+        "nombre": "DEPARTAMENTO DE ECONOMIA"
+    },
+    {
+        "id": 25,
+        "nombre": "DEPARTAMENTO DE COMUNICACION SOCIAL"
+    },
+    {
+        "id": 26,
+        "nombre": "DEPARTAMENTO DE BIOLOGIA Y QUIMICA"
+    },
+    {
+        "id": 27,
+        "nombre": "DEPARTAMENTO DE BACTERIOLOGIA Y LABORATORIO CLINICO"
+    },
+    {
+        "id": 28,
+        "nombre": "DEPARTAMENTO DE ARTES"
+    },
+    {
+        "id": 29,
+        "nombre": "DEPARTAMENTO DE ARQUITECTURA Y DISEÑO INDUSTRIAL"
+    },
+    {
+        "id": 30,
+        "nombre": "DEPARTAMENTO DE ALIMENTOS"
+    },
+    {
+        "id": 31,
+        "nombre": "DEPARTAMENTO DE AGRONOMIA"
+    },
+    {
+        "id": 32,
+        "nombre": "DEPARTAMENTO DE ADMINISTRACION"
+    },
+    {
+        "id": 33,
+        "nombre": "CREAD TERRITORIOS NACIONALES"
+    },
+    {
+        "id": 34,
+        "nombre": "CREAD SANTANDER"
+    },
+    {
+        "id": 35,
+        "nombre": "CREAD NORTE DE SANTANDER"
+    },
+    {
+        "id": 36,
+        "nombre": "CREAD MAGDALENA"
+    },
+    {
+        "id": 37,
+        "nombre": "CREAD GUAJIRA"
+    },
+    {
+        "id": 38,
+        "nombre": "CREAD CESAR"
+    },
+    {
+        "id": 39,
+        "nombre": "CREAD CASANARE"
+    },
+    {
+        "id": 40,
+        "nombre": "CREAD BOYACA"
+    },
+    {
+        "id": 41,
+        "nombre": "CREAD BOGOTA - CUNDINAMARCA"
+    }
+]
