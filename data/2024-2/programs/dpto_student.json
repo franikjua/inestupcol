@@ -1,0 +1,274 @@
+[
+    {
+        "DPTO": 91,
+        "NOMBRE_DPT": "AMAZONAS",
+        "hombres": 8,
+        "mujeres": 7,
+        "latitud": -1.5614047220074236,
+        "longitud": -71.52714117287147
+    },
+    {
+        "DPTO": 5,
+        "NOMBRE_DPT": "ANTIOQUIA",
+        "hombres": 45,
+        "mujeres": 58,
+        "latitud": 6.916388304426011,
+        "longitud": -75.59395944400893
+    },
+    {
+        "DPTO": 81,
+        "NOMBRE_DPT": "ARAUCA",
+        "hombres": 849,
+        "mujeres": 746,
+        "latitud": 6.53657563354807,
+        "longitud": -70.98663799938971
+    },
+    {
+        "DPTO": 88,
+        "NOMBRE_DPT": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA",
+        "hombres": 0,
+        "mujeres": 3,
+        "latitud": 12.911343102637566,
+        "longitud": -81.56578090033975
+    },
+    {
+        "DPTO": 8,
+        "NOMBRE_DPT": "ATLANTICO",
+        "hombres": 63,
+        "mujeres": 60,
+        "latitud": 10.664319675515648,
+        "longitud": -74.98257617711538
+    },
+    {
+        "DPTO": 13,
+        "NOMBRE_DPT": "BOLIVAR",
+        "hombres": 309,
+        "mujeres": 372,
+        "latitud": 8.718945574382143,
+        "longitud": -74.51693804249854
+    },
+    {
+        "DPTO": 15,
+        "NOMBRE_DPT": "BOYACA",
+        "hombres": 445,
+        "mujeres": 437,
+        "latitud": 5.75772778856417,
+        "longitud": -73.12335084475929
+    },
+    {
+        "DPTO": 17,
+        "NOMBRE_DPT": "CALDAS",
+        "hombres": 9,
+        "mujeres": 10,
+        "latitud": 5.332000851430744,
+        "longitud": -75.33897928883361
+    },
+    {
+        "DPTO": 18,
+        "NOMBRE_DPT": "CAQUETA",
+        "hombres": 27,
+        "mujeres": 30,
+        "latitud": 0.7760070757122308,
+        "longitud": -73.9860595503667
+    },
+    {
+        "DPTO": 85,
+        "NOMBRE_DPT": "CASANARE",
+        "hombres": 418,
+        "mujeres": 440,
+        "latitud": 5.3685575301904045,
+        "longitud": -71.62288960484538
+    },
+    {
+        "DPTO": 19,
+        "NOMBRE_DPT": "CAUCA",
+        "hombres": 12,
+        "mujeres": 9,
+        "latitud": 2.394718399905458,
+        "longitud": -76.87350985505438
+    },
+    {
+        "DPTO": 20,
+        "NOMBRE_DPT": "CESAR",
+        "hombres": 894,
+        "mujeres": 914,
+        "latitud": 9.52776376206547,
+        "longitud": -73.53815450991637
+    },
+    {
+        "DPTO": 27,
+        "NOMBRE_DPT": "CHOCO",
+        "hombres": 1,
+        "mujeres": 6,
+        "latitud": 5.986509905630615,
+        "longitud": -76.98397897820465
+    },
+    {
+        "DPTO": 23,
+        "NOMBRE_DPT": "CORDOBA",
+        "hombres": 52,
+        "mujeres": 61,
+        "latitud": 8.353574933487787,
+        "longitud": -75.80195455772602
+    },
+    {
+        "DPTO": 25,
+        "NOMBRE_DPT": "CUNDINAMARCA",
+        "hombres": 67,
+        "mujeres": 85,
+        "latitud": 4.799120917798972,
+        "longitud": -74.11930151039934
+    },
+    {
+        "DPTO": 94,
+        "NOMBRE_DPT": "GUAINIA",
+        "hombres": 4,
+        "mujeres": 3,
+        "latitud": 2.6667043678328355,
+        "longitud": -68.8003495673282
+    },
+    {
+        "DPTO": 95,
+        "NOMBRE_DPT": "GUAVIARE",
+        "hombres": 49,
+        "mujeres": 59,
+        "latitud": 1.8976046700970584,
+        "longitud": -72.12678894238458
+    },
+    {
+        "DPTO": 41,
+        "NOMBRE_DPT": "HUILA",
+        "hombres": 75,
+        "mujeres": 70,
+        "latitud": 2.5390386988945903,
+        "longitud": -75.63988683190956
+    },
+    {
+        "DPTO": 44,
+        "NOMBRE_DPT": "LA GUAJIRA",
+        "hombres": 327,
+        "mujeres": 384,
+        "latitud": 11.442450586547608,
+        "longitud": -72.48229860373264
+    },
+    {
+        "DPTO": 47,
+        "NOMBRE_DPT": "MAGDALENA",
+        "hombres": 916,
+        "mujeres": 617,
+        "latitud": 10.22925559288476,
+        "longitud": -74.28222901940782
+    },
+    {
+        "DPTO": 50,
+        "NOMBRE_DPT": "META",
+        "hombres": 192,
+        "mujeres": 238,
+        "latitud": 3.318786924053588,
+        "longitud": -72.96614802529827
+    },
+    {
+        "DPTO": 52,
+        "NOMBRE_DPT": "NARIÑO",
+        "hombres": 148,
+        "mujeres": 102,
+        "latitud": 1.545652488649876,
+        "longitud": -77.88920587988753
+    },
+    {
+        "DPTO": 54,
+        "NOMBRE_DPT": "NORTE DE SANTANDER",
+        "hombres": 5398,
+        "mujeres": 4933,
+        "latitud": 8.064770464240862,
+        "longitud": -72.90939180838949
+    },
+    {
+        "DPTO": 86,
+        "NOMBRE_DPT": "PUTUMAYO",
+        "hombres": 85,
+        "mujeres": 81,
+        "latitud": 0.4386350650280483,
+        "longitud": -75.86512259612111
+    },
+    {
+        "DPTO": 63,
+        "NOMBRE_DPT": "QUINDIO",
+        "hombres": 12,
+        "mujeres": 6,
+        "latitud": 4.478233465619869,
+        "longitud": -75.69018248090924
+    },
+    {
+        "DPTO": 66,
+        "NOMBRE_DPT": "RISARALDA",
+        "hombres": 7,
+        "mujeres": 13,
+        "latitud": 5.068081878100443,
+        "longitud": -75.92144953462801
+    },
+    {
+        "DPTO": 11,
+        "NOMBRE_DPT": "SANTAFE DE BOGOTA D.C",
+        "hombres": 251,
+        "mujeres": 258,
+        "latitud": 4.288578982034106,
+        "longitud": -74.21445362675868
+    },
+    {
+        "DPTO": 68,
+        "NOMBRE_DPT": "SANTANDER",
+        "hombres": 923,
+        "mujeres": 787,
+        "latitud": 6.6753938940056,
+        "longitud": -73.51501536703059
+    },
+    {
+        "DPTO": 70,
+        "NOMBRE_DPT": "SUCRE",
+        "hombres": 90,
+        "mujeres": 135,
+        "latitud": 9.062540697211617,
+        "longitud": -75.12331879592209
+    },
+    {
+        "DPTO": 73,
+        "NOMBRE_DPT": "TOLIMA",
+        "hombres": 34,
+        "mujeres": 37,
+        "latitud": 4.044151639994256,
+        "longitud": -75.26617094101347
+    },
+    {
+        "DPTO": 76,
+        "NOMBRE_DPT": "VALLE DEL CAUCA",
+        "hombres": 42,
+        "mujeres": 33,
+        "latitud": 3.865498845845202,
+        "longitud": -76.53405250273339
+    },
+    {
+        "DPTO": 97,
+        "NOMBRE_DPT": "VAUPES",
+        "hombres": 3,
+        "mujeres": 2,
+        "latitud": 0.6102477363944805,
+        "longitud": -70.5743904077377
+    },
+    {
+        "DPTO": 99,
+        "NOMBRE_DPT": "VICHADA",
+        "hombres": 32,
+        "mujeres": 35,
+        "latitud": 4.668980738270869,
+        "longitud": -69.43305204674303
+    },
+    {
+        "DPTO": 0,
+        "NOMBRE_DPT": "SIN INFORMACION",
+        "hombres": 416,
+        "mujeres": 390,
+        "latitud": 12.442450586547608,
+        "longitud": -70.5743904077377
+    }
+]

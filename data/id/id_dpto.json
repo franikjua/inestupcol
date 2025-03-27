@@ -1,0 +1,138 @@
+[
+    {
+        "id_dpto": 91,
+        "dpto": "Amazonas"
+    },
+    {
+        "id_dpto": 5,
+        "dpto": "Antioquia"
+    },
+    {
+        "id_dpto": 81,
+        "dpto": "Arauca"
+    },
+    {
+        "id_dpto": 8,
+        "dpto": "Atlantico"
+    },
+    {
+        "id_dpto": 11,
+        "dpto": "Bogota Dc"
+    },
+    {
+        "id_dpto": 13,
+        "dpto": "Bolivar"
+    },
+    {
+        "id_dpto": 15,
+        "dpto": "Boyaca"
+    },
+    {
+        "id_dpto": 17,
+        "dpto": "Caldas"
+    },
+    {
+        "id_dpto": 18,
+        "dpto": "Caqueta"
+    },
+    {
+        "id_dpto": 85,
+        "dpto": "Casanare"
+    },
+    {
+        "id_dpto": 19,
+        "dpto": "Cauca"
+    },
+    {
+        "id_dpto": 20,
+        "dpto": "Cesar"
+    },
+    {
+        "id_dpto": 27,
+        "dpto": "Choco"
+    },
+    {
+        "id_dpto": 23,
+        "dpto": "Cordoba"
+    },
+    {
+        "id_dpto": 25,
+        "dpto": "Cundinamarca"
+    },
+    {
+        "id_dpto": 94,
+        "dpto": "Guainia"
+    },
+    {
+        "id_dpto": 95,
+        "dpto": "Guaviare"
+    },
+    {
+        "id_dpto": 41,
+        "dpto": "Huila"
+    },
+    {
+        "id_dpto": 44,
+        "dpto": "La Guajira"
+    },
+    {
+        "id_dpto": 47,
+        "dpto": "Magdalena"
+    },
+    {
+        "id_dpto": 50,
+        "dpto": "Meta"
+    },
+    {
+        "id_dpto": 52,
+        "dpto": "Narino"
+    },
+    {
+        "id_dpto": 54,
+        "dpto": "Norte De Santander"
+    },
+    {
+        "id_dpto": 86,
+        "dpto": "Putumayo"
+    },
+    {
+        "id_dpto": 63,
+        "dpto": "Quindio"
+    },
+    {
+        "id_dpto": 66,
+        "dpto": "Risaralda"
+    },
+    {
+        "id_dpto": 88,
+        "dpto": "San Andres"
+    },
+    {
+        "id_dpto": 68,
+        "dpto": "Santander"
+    },
+    {
+        "id_dpto": 70,
+        "dpto": "Sucre"
+    },
+    {
+        "id_dpto": 73,
+        "dpto": "Tolima"
+    },
+    {
+        "id_dpto": 76,
+        "dpto": "Valle Del Cauca"
+    },
+    {
+        "id_dpto": 97,
+        "dpto": "Vaupes"
+    },
+    {
+        "id_dpto": 99,
+        "dpto": "Vichada"
+    },
+    {
+        "id_dpto": 999,
+        "dpto": "Sin Inf"
+    }
+]

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[534],{6534:e=>{e.exports=JSON.parse('[{"id":1,"nombre":"Internacional"},{"id":2,"nombre":"Alta calidad"},{"id":3,"nombre":"Registro Calificado"}]')}}]);

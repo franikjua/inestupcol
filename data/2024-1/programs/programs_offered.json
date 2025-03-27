@@ -1,0 +1,1294 @@
+[
+    {
+        "nombre_programa": "LIC. EN EDUCACIÓN BÁSICA CON ÉNFASIS EN EDUCACIÓN FÍSICA RECREACIÓN Y DEPORTES",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": false,
+            "Distancia": true,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN ADMINISTRACIÓN",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": false,
+            "Distancia": true,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "CONTADURIA PÚBLICA",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": true,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ECONOMÍA",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": true,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ADMINISTRACIÓN DE EMPRESAS",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": true,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRIA EN EDUCACIÓN (PRESENCIAL)",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": true
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "DERECHO",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "DISEÑO INDUSTRIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "DOCTORADO EN BIOTECNOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Posgrado",
+        "nivel": "Doctorado",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "DOCTORADO EN CIENCIA Y TECNOLOGÍA DE ALIMENTOS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Doctorado",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN DESARROLLO ECONÓMICO REGIONAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN EDUCACIÓN ARTÍSTICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN EDUCACIÓN PARA LA RECREACIÓN COMUNITARIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN EDUCACION: EDUCACIÓN ESPECIAL E INCLUSIÓN SOCIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN EDUCACIÓN: FORMACIÓN INTEGRAL DE LA INFANCIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN PEDAGOGÍA UNIVERSITARIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN SEGURIDAD ALIMENTARIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN SISTEMAS INTEGRADOS DE GESTIÓN HSEQ",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ESPECIALIZACIÓN EN TRANSFORMACIÓN DE RESIDUOS AGROINDUSTRIALES",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Posgrado",
+        "nivel": "Especializacion",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "FÍSICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "FONOAUDIOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "GEOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA AGRONÓMICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS AGRARIAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA AMBIENTAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA CIVIL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA INDUSTRIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "LIC. EN CIENCIAS SOCIALES Y DESARROLLO LOCAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "LIC. EN EDUCACIÓN ARTISTICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN BIOLOGÍA MOLECULAR Y BIOTECNOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN CIENCIA DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN CIENCIA Y TECNOLOGÍA DE LOS ALIMENTOS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN CIENCIAS AGRARIAS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS AGRARIAS",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRIA EN CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS ECONOMICAS Y EMPRESARIALES",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRIA EN COMUNICACION CULTURA Y FRONTERA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRIA EN COMUNICACIÓN MULTILINGUE Y GESTION DEL CONOCIMIENTO",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN EXTENSIÓN Y DESARROLLO RURAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS AGRARIAS",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN FÍSICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN GESTIÓN DE PROYECTOS INFORMÁTICOS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA AMBIENTAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA INDUSTRIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN PAZ, DESARROLLO Y RESOLUCIÓN DE CONFLICTOS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN QUÍMICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MATEMÁTICA APLICADA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MEDICINA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MÚSICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "NUTRICIÓN Y DIETÉTICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "PSICOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "QUÍMICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "TÉCNICO PROFESIONAL EN INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "TÉCNICO PROFESIONAL EN MATENIMIENTO DE MAQUINARIA Y EQUIPOS INDUSTRIALES",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "TECNOLOGÍA DE ALIMENTOS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Tecnológico",
+        "nivel": "Tecnológico",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "TECNOLOGÍA EN AUTOMATIZACIÓN INDUSTRIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Tecnológico",
+        "nivel": "Tecnológico",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "TECNOLOGÍA EN GESTIÓN DEL MANTENIMIENTO INDUSTRIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Tecnológico",
+        "nivel": "Tecnológico",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ZOOTECNIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS AGRARIAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA QUÍMICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": false,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ARQUITECTURA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "BACTERIOLOGÍA Y LABORATORIO CLÍNICO",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "BIOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "COMUNICACIÓN SOCIAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "ENFERMERÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "FILOSOFÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "ARTES Y HUMANIDADES",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "FISIOTERAPIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA MECATRÓNICA",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "LIC. EN EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTES",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "LIC. EN EDUCACIÓN INFANTIL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "LIC. EN LENGUAS EXTRANJERAS INGLÉS FRANCÉS",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS DE LA EDUCACION",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VENCIDO"
+    },
+    {
+        "nombre_programa": "MEDICINA VETERINARIA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS AGRARIAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MICROBIOLOGÍA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "CIENCIAS BASICAS",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "TERAPIA OCUPACIONAL",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "SALUD",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA DE ALIMENTOS",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA DE SISTEMAS",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA DE TELECOMUNICACIONES",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA ELÉCTRICA",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA ELECTRÓNICA",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "INGENIERÍA MECÁNICA",
+        "acreditacion": {
+            "Internacional": false,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Pregrado",
+        "nivel": "Profesional",
+        "Estado": "VIGENTE"
+    },
+    {
+        "nombre_programa": "MAESTRÍA EN CONTROLES INDUSTRIALES",
+        "acreditacion": {
+            "Internacional": true,
+            "Alta_Calidad": true,
+            "Registro_Calificado": true
+        },
+        "modalidad": {
+            "Presencial": true,
+            "Distancia": false,
+            "Virtual": false
+        },
+        "Facultad": "INGENIERIAS  Y ARQUITECTURA",
+        "programa": "Posgrado",
+        "nivel": "Maestria",
+        "Estado": "VIGENTE"
+    }
+]

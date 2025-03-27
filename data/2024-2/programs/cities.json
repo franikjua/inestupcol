@@ -1,0 +1,16 @@
+[
+    { "ciudad": "PAMPLONA", "tipo": "SEDE", "address": "Km 1 Vía Bucaramanga Ciudad Universitaria Pamplona - Norte de Santander", "latitud": 7.3786, "longitud": -72.6525 },
+    { "ciudad": "BOGOTÁ D.C.", "tipo": "CREAD", "address": "Carrera 13A # 78-93 Barrio El Lago" , "latitud": 4.649251, "longitud": -74.106992 },
+    { "ciudad": "BUCARAMANGA", "tipo": "CREAD", "address": "Calle 58 No. 32-44 Barrio Conucos","latitud": 7.1254, "longitud": -73.1198 },
+    { "ciudad": "CARTAGENA", "tipo": "CREAD", "address": "Calle 30 Nº 18A - 208. Local 1 y 2 Barrio Pie de la Popa","latitud": 10.3910, "longitud": -75.4794 },
+    { "ciudad": "DUITAMA", "tipo": "CREAD", "address": "Instituto Técnico Rafael Reyes carrera 18#23-116","latitud": 5.8269, "longitud": -73.0200 },
+    { "ciudad": "RIOHACHA", "tipo": "CREAD", "address": "Calle 7 Nº 6-33. Edificio Val Paraiso primer piso","latitud": 11.5444, "longitud": -72.9072 },
+    { "ciudad": "SAN_JOSÉ_DEL_GUAVIARE", "tipo": "CREAD", "address": "Carrera 19d # 12A-36, Barrio el Modelo","latitud": 2.5729, "longitud": -72.6459 },
+    { "ciudad": "SANTA_MARTA", "tipo": "CREAD", "address": "Calle 66a Nº 46-45 Esquina Urbanizaciòn las acacias","latitud": 11.2408, "longitud": -74.1990 },
+    { "ciudad": "SINCELEJO", "tipo": "CREAD", "address": "Calle 23 # 18-31  piso 2 Centro","latitud": 9.3047, "longitud": -75.3978 },
+    { "ciudad": "VALLEDUPAR", "tipo": "CREAD", "address": "Calle 13A # 6-88 Barrio Cañahuate","latitud": 10.4631, "longitud": -73.2532 },
+    { "ciudad": "YOPAL", "tipo": "CREAD", "address": "Calle 13 No. 22-33 Barrio El Gaban","latitud": 5.3378, "longitud": -72.3959 },
+    { "ciudad": "CÚCUTA", "tipo": "CREAD", "address": "Calle 5 # 2-38 Barrio Latino","latitud": 7.8891, "longitud": -72.4967 },
+    { "ciudad": "VILLA_DEL_ROSARIO - CÚCUTA", "tipo": "SEDE", "address": "Autopista Internacional Vía Los Álamos  Villa Antigua Villa del Rosario - Norte de Santander","latitud": 7.8339, "longitud": -72.4742 }
+  ]
+  

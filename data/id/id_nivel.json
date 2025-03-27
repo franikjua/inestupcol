@@ -1,0 +1,22 @@
+[
+    {
+        "id_nivel": 1,
+        "nivel": "Universitario"
+    },
+    {
+        "id_nivel": 2,
+        "nivel": "Maestria"
+    },
+    {
+        "id_nivel": 3,
+        "nivel": "Especializacion"
+    },
+    {
+        "id_nivel": 4,
+        "nivel": "Doctorado"
+    },
+    {
+        "id_nivel": 5,
+        "nivel": "Tecnológico"
+    }
+]

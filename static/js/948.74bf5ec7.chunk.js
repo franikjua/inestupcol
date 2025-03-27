@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[948],{948:e=>{e.exports=JSON.parse('[{"estrato":1,"nombre":"Bajo-Bajo"},{"estrato":2,"nombre":"Bajo"},{"estrato":3,"nombre":"Medio-Bajo"},{"estrato":4,"nombre":"Medio"},{"estrato":5,"nombre":"Medio-Alto"},{"estrato":6,"nombre":"Alto"},{"estrato":999,"nombre":"no disp"}]')}}]);

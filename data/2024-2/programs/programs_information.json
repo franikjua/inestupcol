@@ -1,0 +1,16 @@
+[
+    {
+        "programa": "Pregrado",
+        "descripcion": "La Universidad ofrece programas de pregrado que transforman a los estudiantes en profesionales competentes y preparados para enfrentar los retos del mundo laboral. A través de una formación integral de cinco años, los jóvenes adquieren las herramientas necesarias para construir un futuro prometedor.",
+        "presencial": "44",
+        "distancia": "4",
+        "virtual": "0"
+    },
+    {
+        "programa": "Posgrado",
+        "descripcion": "Los programas de posgrado de la Universidad brindan la oportunidad de adquirir conocimientos especializados y desarrollar habilidades de investigación, preparando a los estudiantes para roles de liderazgo y para contribuir al avance de su campo. Elige entre especializaciones, maestrías y doctorados.",
+        "presencial": "28",
+        "distancia": "2",
+        "virtual": "1"
+    }
+]

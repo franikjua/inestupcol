@@ -1,0 +1,1542 @@
+[
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 11001
+    },
+    {
+        "SNIES": 109336,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 11001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 11001
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 11001
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 11001
+    },
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 13001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 15238
+    },
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 20001
+    },
+    {
+        "SNIES": 109336,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 20001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 20001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 20001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 20001
+    },
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 25126
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 44001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 44001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 44001
+    },
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 109336,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 47001
+    },
+    {
+        "SNIES": 9440,
+        "id_programa": 12,
+        "id_acreditacion": 2,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 104527,
+        "id_programa": 16,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 106652,
+        "id_programa": 405,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 866,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 109336,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 108369,
+        "id_programa": 410,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 4261,
+        "id_programa": 411,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 11334,
+        "id_programa": 413,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 106497,
+        "id_programa": 55,
+        "id_acreditacion": 3,
+        "id_facultad": 5,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 2,
+        "id_sede_cread": 54001
+    },
+    {
+        "SNIES": 101468,
+        "id_programa": 11,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9440,
+        "id_programa": 12,
+        "id_acreditacion": 2,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 52382,
+        "id_programa": 13,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 105090,
+        "id_programa": 14,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11927,
+        "id_programa": 15,
+        "id_acreditacion": 2,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 52655,
+        "id_programa": 17,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9547,
+        "id_programa": 18,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 17733,
+        "id_programa": 21,
+        "id_acreditacion": 3,
+        "id_facultad": 2,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 107378,
+        "id_programa": 22,
+        "id_acreditacion": 3,
+        "id_facultad": 2,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 105602,
+        "id_programa": 23,
+        "id_acreditacion": 3,
+        "id_facultad": 2,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 14771,
+        "id_programa": 24,
+        "id_acreditacion": 2,
+        "id_facultad": 2,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 14772,
+        "id_programa": 25,
+        "id_acreditacion": 3,
+        "id_facultad": 2,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11305,
+        "id_programa": 31,
+        "id_acreditacion": 2,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9761,
+        "id_programa": 32,
+        "id_acreditacion": 3,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 106365,
+        "id_programa": 34,
+        "id_acreditacion": 3,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 873,
+        "id_programa": 35,
+        "id_acreditacion": 2,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 17734,
+        "id_programa": 36,
+        "id_acreditacion": 3,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11337,
+        "id_programa": 401,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 52423,
+        "id_programa": 402,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 52589,
+        "id_programa": 403,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11941,
+        "id_programa": 404,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 106652,
+        "id_programa": 405,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 116220,
+        "id_programa": 406,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 104562,
+        "id_programa": 407,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 866,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 106502,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 106598,
+        "id_programa": 410,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 108369,
+        "id_programa": 410,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 4261,
+        "id_programa": 411,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 870,
+        "id_programa": 412,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11334,
+        "id_programa": 413,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 19869,
+        "id_programa": 414,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 52547,
+        "id_programa": 415,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 104767,
+        "id_programa": 415,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 3,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9491,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9491,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 10159,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9980,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9980,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 53281,
+        "id_programa": 54,
+        "id_acreditacion": 3,
+        "id_facultad": 5,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 3,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 106497,
+        "id_programa": 55,
+        "id_acreditacion": 3,
+        "id_facultad": 5,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 2,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 104842,
+        "id_programa": 56,
+        "id_acreditacion": 3,
+        "id_facultad": 5,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 3,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11396,
+        "id_programa": 601,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 51736,
+        "id_programa": 602,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 108300,
+        "id_programa": 603,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 4,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 105808,
+        "id_programa": 604,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 4,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 103780,
+        "id_programa": 605,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 104322,
+        "id_programa": 606,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9806,
+        "id_programa": 607,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 52397,
+        "id_programa": 608,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 2890,
+        "id_programa": 609,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 2890,
+        "id_programa": 609,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9245,
+        "id_programa": 610,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9245,
+        "id_programa": 610,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9818,
+        "id_programa": 611,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9818,
+        "id_programa": 611,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 2889,
+        "id_programa": 612,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 2889,
+        "id_programa": 612,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11874,
+        "id_programa": 613,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11874,
+        "id_programa": 613,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9899,
+        "id_programa": 614,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11455,
+        "id_programa": 615,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 9717,
+        "id_programa": 616,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 53408,
+        "id_programa": 617,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 19952,
+        "id_programa": 618,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 20651,
+        "id_programa": 619,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 20651,
+        "id_programa": 619,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 51875,
+        "id_programa": 620,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 53817,
+        "id_programa": 621,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 103487,
+        "id_programa": 621,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11443,
+        "id_programa": 71,
+        "id_acreditacion": 2,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 20972,
+        "id_programa": 72,
+        "id_acreditacion": 2,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 108303,
+        "id_programa": 73,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11578,
+        "id_programa": 74,
+        "id_acreditacion": 2,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 17524,
+        "id_programa": 75,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 51812,
+        "id_programa": 76,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 11577,
+        "id_programa": 77,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 116844,
+        "id_programa": 77,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 12006,
+        "id_programa": 78,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 17521,
+        "id_programa": 79,
+        "id_acreditacion": 2,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54518
+    },
+    {
+        "SNIES": 19816,
+        "id_programa": 12,
+        "id_acreditacion": 2,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 52382,
+        "id_programa": 13,
+        "id_acreditacion": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 14772,
+        "id_programa": 25,
+        "id_acreditacion": 3,
+        "id_facultad": 2,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 51836,
+        "id_programa": 33,
+        "id_acreditacion": 3,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 866,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 106502,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9491,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9491,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 10159,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9980,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9980,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 11396,
+        "id_programa": 601,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 51736,
+        "id_programa": 602,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 2890,
+        "id_programa": 609,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 2890,
+        "id_programa": 609,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9245,
+        "id_programa": 610,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9245,
+        "id_programa": 610,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9818,
+        "id_programa": 611,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9818,
+        "id_programa": 611,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 11874,
+        "id_programa": 613,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 11874,
+        "id_programa": 613,
+        "id_acreditacion": 1,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9899,
+        "id_programa": 614,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 9717,
+        "id_programa": 616,
+        "id_acreditacion": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 12006,
+        "id_programa": 78,
+        "id_acreditacion": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1,
+        "id_sede_cread": 54874
+    },
+    {
+        "SNIES": 4541,
+        "id_programa": 408,
+        "id_acreditacion": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 68001
+    },
+    {
+        "SNIES": 109336,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 68001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 68001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 68001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 68001
+    },
+    {
+        "SNIES": 103781,
+        "id_programa": 605,
+        "id_acreditacion": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 3,
+        "id_metodologia": 1,
+        "id_sede_cread": 68001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 85001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 85001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 85001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 95001
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 95001
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2,
+        "id_sede_cread": 95001
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "id_programa": 11,
+        "programa": "ARTES VISUALES"
+    },
+    {
+        "id_programa": 12,
+        "programa": "COMUNICACION SOCIAL"
+    },
+    {
+        "id_programa": 13,
+        "programa": "DERECHO"
+    },
+    {
+        "id_programa": 14,
+        "programa": "ESPECIALIZACION EN EDU. ARTISTICA"
+    },
+    {
+        "id_programa": 15,
+        "programa": "FILOSOFIA"
+    },
+    {
+        "id_programa": 16,
+        "programa": "LIC. EN EDU. ARTISTICA"
+    },
+    {
+        "id_programa": 17,
+        "programa": "MAESTRIA EN PAZ DESARROLLO Y RESOLUCION DE CONFLICTOS"
+    },
+    {
+        "id_programa": 18,
+        "programa": "MÚSICA"
+    },
+    {
+        "id_programa": 21,
+        "programa": "ING. AGRONOMICA"
+    },
+    {
+        "id_programa": 22,
+        "programa": "MAESTRIA EN CIENCIAS AGRARIAS"
+    },
+    {
+        "id_programa": 23,
+        "programa": "MAESTRIA EN EXTENSION Y DESARROLLO RURAL"
+    },
+    {
+        "id_programa": 24,
+        "programa": "MEDICINA VETERINARIA"
+    },
+    {
+        "id_programa": 25,
+        "programa": "ZOOTECNIA"
+    },
+    {
+        "id_programa": 31,
+        "programa": "BIOLOGIA"
+    },
+    {
+        "id_programa": 32,
+        "programa": "FISICA"
+    },
+    {
+        "id_programa": 33,
+        "programa": "GEOLOGIA"
+    },
+    {
+        "id_programa": 34,
+        "programa": "MATEMATICA APLICADA"
+    },
+    {
+        "id_programa": 35,
+        "programa": "MICROBIOLOGIA"
+    },
+    {
+        "id_programa": 36,
+        "programa": "QUÍMICA"
+    },
+    {
+        "id_programa": 401,
+        "programa": "ESPECIALIZACION EN EDU. PARA LA RECREACION COMUNITARIA"
+    },
+    {
+        "id_programa": 402,
+        "programa": "ESPECIALIZACION EN EDU: EDU. ESPECIAL E INCLUSIÓN SOCIAL"
+    },
+    {
+        "id_programa": 403,
+        "programa": "ESPECIALIZACION EN EDU: FORMACION INTEGRAL DE LA INFANCIA"
+    },
+    {
+        "id_programa": 404,
+        "programa": "ESPECIALIZACION EN PEDAGOGIA UNIVERSITARIA"
+    },
+    {
+        "id_programa": 405,
+        "programa": "LIC. EDU. INFANTIL"
+    },
+    {
+        "id_programa": 406,
+        "programa": "LIC. EN CIENCIAS SOCIALES"
+    },
+    {
+        "id_programa": 407,
+        "programa": "LIC. EN CIENCIAS SOCIALES Y DESARROLLO LOCAL"
+    },
+    {
+        "id_programa": 408,
+        "programa": "LIC. EN EDU. BASICA CON ENFASIS EN EDU. FISICA RECREACION Y DEPORTES "
+    },
+    {
+        "id_programa": 409,
+        "programa": "LIC. EN EDU. FISICA RECREACION Y DEPORTES"
+    },
+    {
+        "id_programa": 410,
+        "programa": "LIC. EN HUMANIDADES Y LENGUA CASTELLANA"
+    },
+    {
+        "id_programa": 411,
+        "programa": "LIC. EN LENGUA CASTELLANA Y COMUNICACION"
+    },
+    {
+        "id_programa": 412,
+        "programa": "LIC. EN LENGUAS EXTRANJERAS: INGLES-FRANCES"
+    },
+    {
+        "id_programa": 413,
+        "programa": "LIC. PEDAGOGIA INFANTIL"
+    },
+    {
+        "id_programa": 414,
+        "programa": "MAESTRIA EN CIENCIAS DE LA ACTIVIDAD FISICA Y DEL DEPORTE"
+    },
+    {
+        "id_programa": 415,
+        "programa": "MAESTRIA EN EDUCACION"
+    },
+    {
+        "id_programa": 51,
+        "programa": "ADMINISTRACION DE EMPRESAS"
+    },
+    {
+        "id_programa": 52,
+        "programa": "CONTADURIA PUBLICA"
+    },
+    {
+        "id_programa": 53,
+        "programa": "ECONOMIA"
+    },
+    {
+        "id_programa": 54,
+        "programa": "ESPECIALIZACION EN DESARROLLO ECONOMICO REGIONAL"
+    },
+    {
+        "id_programa": 55,
+        "programa": "MAESTRIA EN ADMINISTRACION"
+    },
+    {
+        "id_programa": 56,
+        "programa": "MAESTRIA EN CIENCIAS ECONOMICAS"
+    },
+    {
+        "id_programa": 601,
+        "programa": "ARQUITECTURA"
+    },
+    {
+        "id_programa": 602,
+        "programa": "DISEÑO INDUSTRIAL"
+    },
+    {
+        "id_programa": 603,
+        "programa": "DOCTORADO EN AUTOMATICA"
+    },
+    {
+        "id_programa": 604,
+        "programa": "DOCTORADO EN CIENCIA Y TECNOLOGIA DE ALIMENTOS"
+    },
+    {
+        "id_programa": 605,
+        "programa": "ESPECIALIZACION EN SEGURIDAD ALIMENTARIA"
+    },
+    {
+        "id_programa": 606,
+        "programa": "ESPECIALIZACION EN SISTEMAS INTEGRADOS DE GESTION HSEQ"
+    },
+    {
+        "id_programa": 607,
+        "programa": "ING. AMBIENTAL"
+    },
+    {
+        "id_programa": 608,
+        "programa": "ING. CIVIL"
+    },
+    {
+        "id_programa": 609,
+        "programa": "ING. DE ALIMENTOS"
+    },
+    {
+        "id_programa": 610,
+        "programa": "ING. DE SISTEMAS"
+    },
+    {
+        "id_programa": 611,
+        "programa": "ING. ELECTRICA"
+    },
+    {
+        "id_programa": 612,
+        "programa": "ING. ELECTRONICA"
+    },
+    {
+        "id_programa": 613,
+        "programa": "ING. EN TELECOMUNICACIONES"
+    },
+    {
+        "id_programa": 614,
+        "programa": "ING. INDUSTRIAL"
+    },
+    {
+        "id_programa": 615,
+        "programa": "ING. MECANICA"
+    },
+    {
+        "id_programa": 616,
+        "programa": "ING. MECATRONICA"
+    },
+    {
+        "id_programa": 617,
+        "programa": "ING. QUIMICA"
+    },
+    {
+        "id_programa": 618,
+        "programa": "MAESTRIA EN CIENCIA Y TECNOLOGIA DE LOS ALIMENTOS"
+    },
+    {
+        "id_programa": 619,
+        "programa": "MAESTRIA EN CONTROLES INDUSTRIALES"
+    },
+    {
+        "id_programa": 620,
+        "programa": "MAESTRIA EN GESTION DE PROYECTOS INFORMÁTICOS"
+    },
+    {
+        "id_programa": 621,
+        "programa": "MAESTRIA EN ING. AMBIENTAL"
+    },
+    {
+        "id_programa": 71,
+        "programa": "BACTERIOLOGIA Y LABORATORIO CLINICO"
+    },
+    {
+        "id_programa": 72,
+        "programa": "ENFERMERIA"
+    },
+    {
+        "id_programa": 73,
+        "programa": "ESPECIALIZACION EN SEGURIDAD Y SALUD EN EL TRABAJO"
+    },
+    {
+        "id_programa": 74,
+        "programa": "FISIOTERAPIA"
+    },
+    {
+        "id_programa": 75,
+        "programa": "FONOAUDIOLOGIA"
+    },
+    {
+        "id_programa": 76,
+        "programa": "MEDICINA"
+    },
+    {
+        "id_programa": 77,
+        "programa": "NUTRICION Y DIETETICA"
+    },
+    {
+        "id_programa": 78,
+        "programa": "PSICOLOGÍA"
+    },
+    {
+        "id_programa": 79,
+        "programa": "TERAPIA OCUPACIONAL"
+    }
+]

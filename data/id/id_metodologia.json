@@ -1,0 +1,14 @@
+[
+    {
+        "id_metodologia": 1,
+        "metodologia": "Presencial"
+    },
+    {
+        "id_metodologia": 2,
+        "metodologia": "Distancia"
+    },
+    {
+        "id_metodologia": 3,
+        "metodologia": "Virtual"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "programas": "ofertados",
+        "tecnologicos": 0,
+        "pregrado": 56,
+        "posgrado": 25
+    },
+    {
+        "programas": "vigentes",
+        "tecnologicos": 0,
+        "pregrado": 48,
+        "posgrado": 23
+    }
+]
