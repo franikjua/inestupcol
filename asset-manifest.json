@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github.io/inestupcol/static/css/main.386b4a38.css",
-    "main.js": "/github.io/inestupcol/static/js/main.4a9efc47.js",
+    "main.css": "/github.io/inestupcol/static/css/main.b73505e1.css",
+    "main.js": "/github.io/inestupcol/static/js/main.0ada7a0b.js",
     "static/js/544.ac7cf271.chunk.js": "/github.io/inestupcol/static/js/544.ac7cf271.chunk.js",
     "static/js/956.d9d4eefc.chunk.js": "/github.io/inestupcol/static/js/956.d9d4eefc.chunk.js",
     "static/js/948.74bf5ec7.chunk.js": "/github.io/inestupcol/static/js/948.74bf5ec7.chunk.js",
@@ -31,15 +31,15 @@
     "static/media/virreteSf.png": "/github.io/inestupcol/static/media/virreteSf.bd226803e5d41bfa41ac.png",
     "static/media/logo_MEN_reg_calificado.png": "/github.io/inestupcol/static/media/logo_MEN_reg_calificado.d92be7efad14910c28d3.png",
     "index.html": "/github.io/inestupcol/index.html",
-    "main.386b4a38.css.map": "/github.io/inestupcol/static/css/main.386b4a38.css.map",
-    "main.4a9efc47.js.map": "/github.io/inestupcol/static/js/main.4a9efc47.js.map",
+    "main.b73505e1.css.map": "/github.io/inestupcol/static/css/main.b73505e1.css.map",
+    "main.0ada7a0b.js.map": "/github.io/inestupcol/static/js/main.0ada7a0b.js.map",
     "239.6c989dd2.chunk.js.map": "/github.io/inestupcol/static/js/239.6c989dd2.chunk.js.map",
     "213.7b4e7396.chunk.js.map": "/github.io/inestupcol/static/js/213.7b4e7396.chunk.js.map",
     "732.02e26e7c.chunk.js.map": "/github.io/inestupcol/static/js/732.02e26e7c.chunk.js.map",
     "453.bffebb4e.chunk.js.map": "/github.io/inestupcol/static/js/453.bffebb4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.386b4a38.css",
-    "static/js/main.4a9efc47.js"
+    "static/css/main.b73505e1.css",
+    "static/js/main.0ada7a0b.js"
   ]
 }
