@@ -1,17 +1,16 @@
 import React from 'react';
-import './InfoCardList.css';
+import InfoCard from './InfoCard';
+import './InfoCardList.css'; // Importa el archivo CSS
 
-const InfoCard = ({ title, description, image, index }) => {
+const InfoCardList = ({ cards }) => {
   return (
-    <div className={`info-card ${index % 2 !== 0 ? 'reverse' : ''}`}>
-      {image && <img src={image} alt={title} className="info-card-image" />}
-      <div className="info-card-content">
-        <h3 className="info-card-title">{title}</h3>
-        <p className="info-card-description">{description}</p>
-      </div>
+    <div className="info-card-list">
+      {cards.map((card, index) => (
+        <InfoCard key={index} {...card} />
+      ))}
     </div>
   );
 };
 
-export default InfoCard;
+export default InfoCardList;
 

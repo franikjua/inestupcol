@@ -1,33 +1,17 @@
 import React from 'react';
-import InfoCard from './InfoCardList';
 import './InfoCard.css';
 
-const InfoCardList = ({ cards }) => {
+const InfoCard = ({ title, description, image, reverse }) => {
   return (
-    <div className="info-cards-wrapper">
-      {cards.reduce((rows, card, index) => {
-        if (index % 2 === 0) {
-          rows.push([card]);
-        } else {
-          rows[rows.length - 1].push(card);
-        }
-        return rows;
-      }, []).map((row, rowIndex) => (
-        <div className="info-cards-row" key={rowIndex}>
-          {row.map((card, index) => (
-            <InfoCard
-              key={index}
-              title={card.title}
-              description={card.description}
-              image={card.image}
-              reverse={index % 2 !== 0} // Alterna la posición de la imagen
-            />
-          ))}
-        </div>
-      ))}
+    <div className="info-card">
+      <h3>{title}</h3>
+      <div className="content-container" style={{ flexDirection: reverse ? 'row-reverse' : 'row' }}>
+        <img src={image} alt={title} />
+        <p>{description}</p>
+      </div>
     </div>
   );
 };
 
-export default InfoCardList;
+export default InfoCard;
 
