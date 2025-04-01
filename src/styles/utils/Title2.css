@@ -1,0 +1,23 @@
+.title2 {
+  margin-top: 3rem;
+  font-size: 3rem; /* Reduce el tamaño del título */
+  font-weight: bold; /* Asegura que se vea destacado */
+  text-align: center;
+  color: rgba(23, 63, 95, 0.8); /* Blanco con algo de transparencia */
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1); /* Sombra para darle profundidad */  
+  border: 4px solid #173F5F; /* Borde rojo oscuro */
+  border-radius: 10px; /* Bordes redondeados para darle un toque moderno */
+  }
+  
+  @media (max-width: 768px) {
+    .title2 {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .title2 {
+      font-size: 1.5rem;
+    }
+  }
+  

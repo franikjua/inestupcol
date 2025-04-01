@@ -1,0 +1,32 @@
+/* Contenedor principal de la sección */
+.academic-section {
+  padding: 40px 20px;
+  background-color: #f5f5f5; /* Fondo claro para destacar la sección */
+  margin-top: 20px;
+}
+
+/* Contenedor de todas las tarjetas */
+.info-cards-container {
+  display: flex;
+  flex-direction: column; /* Asegura que las tarjetas estén una debajo de la otra */
+  align-items: center; /* Centra las tarjetas horizontalmente */
+  gap: 20px; /* Espacio entre las tarjetas */
+}
+
+/* Ajustes responsivos*/
+@media (max-width: 768px) {
+  .info-cards-container {
+    gap: 15px; /* Reduce el espacio entre tarjetas en pantallas pequeñas */
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

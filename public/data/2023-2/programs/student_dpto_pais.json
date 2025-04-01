@@ -1,0 +1,407 @@
+[
+    {
+        "id": 91,
+        "name": "AMAZONAS",
+        "tipo": "Dpto",
+        "hombres": 8,
+        "mujeres": 7,
+        "latitud": -1.5614047220074236,
+        "longitud": -71.52714117287147
+    },
+    {
+        "id": 5,
+        "name": "ANTIOQUIA",
+        "tipo": "Dpto",
+        "hombres": 45,
+        "mujeres": 58,
+        "latitud": 6.916388304426011,
+        "longitud": -75.59395944400893
+    },
+    {
+        "id": 81,
+        "name": "ARAUCA",
+        "tipo": "Dpto",
+        "hombres": 849,
+        "mujeres": 746,
+        "latitud": 6.53657563354807,
+        "longitud": -70.98663799938971
+    },
+    {
+        "id": 88,
+        "name": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA",
+        "tipo": "Dpto",
+        "hombres": 0,
+        "mujeres": 3,
+        "latitud": 12.911343102637566,
+        "longitud": -81.56578090033975
+    },
+    {
+        "id": 8,
+        "name": "ATLANTICO",
+        "tipo": "Dpto",
+        "hombres": 63,
+        "mujeres": 60,
+        "latitud": 10.664319675515648,
+        "longitud": -74.98257617711538
+    },
+    {
+        "id": 13,
+        "name": "BOLIVAR",
+        "tipo": "Dpto",
+        "hombres": 309,
+        "mujeres": 372,
+        "latitud": 8.718945574382143,
+        "longitud": -74.51693804249854
+    },
+    {
+        "id": 15,
+        "name": "BOYACA",
+        "tipo": "Dpto",
+        "hombres": 445,
+        "mujeres": 437,
+        "latitud": 5.75772778856417,
+        "longitud": -73.12335084475929
+    },
+    {
+        "id": 17,
+        "name": "CALDAS",
+        "tipo": "Dpto",
+        "hombres": 9,
+        "mujeres": 10,
+        "latitud": 5.332000851430744,
+        "longitud": -75.33897928883361
+    },
+    {
+        "id": 18,
+        "name": "CAQUETA",
+        "tipo": "Dpto",
+        "hombres": 27,
+        "mujeres": 30,
+        "latitud": 0.7760070757122308,
+        "longitud": -73.9860595503667
+    },
+    {
+        "id": 85,
+        "name": "CASANARE",
+        "tipo": "Dpto",
+        "hombres": 418,
+        "mujeres": 440,
+        "latitud": 5.3685575301904045,
+        "longitud": -71.62288960484538
+    },
+    {
+        "id": 19,
+        "name": "CAUCA",
+        "tipo": "Dpto",
+        "hombres": 12,
+        "mujeres": 9,
+        "latitud": 2.394718399905458,
+        "longitud": -76.87350985505438
+    },
+    {
+        "id": 20,
+        "name": "CESAR",
+        "tipo": "Dpto",
+        "hombres": 894,
+        "mujeres": 914,
+        "latitud": 9.52776376206547,
+        "longitud": -73.53815450991637
+    },
+    {
+        "id": 27,
+        "name": "CHOCO",
+        "tipo": "Dpto",
+        "hombres": 1,
+        "mujeres": 6,
+        "latitud": 5.986509905630615,
+        "longitud": -76.98397897820465
+    },
+    {
+        "id": 23,
+        "name": "CORDOBA",
+        "tipo": "Dpto",
+        "hombres": 52,
+        "mujeres": 61,
+        "latitud": 8.353574933487787,
+        "longitud": -75.80195455772602
+    },
+    {
+        "id": 25,
+        "name": "CUNDINAMARCA",
+        "tipo": "Dpto",
+        "hombres": 67,
+        "mujeres": 85,
+        "latitud": 4.799120917798972,
+        "longitud": -74.11930151039934
+    },
+    {
+        "id": 94,
+        "name": "GUAINIA",
+        "tipo": "Dpto",
+        "hombres": 4,
+        "mujeres": 3,
+        "latitud": 2.6667043678328355,
+        "longitud": -68.8003495673282
+    },
+    {
+        "id": 95,
+        "name": "GUAVIARE",
+        "tipo": "Dpto",
+        "hombres": 49,
+        "mujeres": 59,
+        "latitud": 1.8976046700970584,
+        "longitud": -72.12678894238458
+    },
+    {
+        "id": 41,
+        "name": "HUILA",
+        "tipo": "Dpto",
+        "hombres": 75,
+        "mujeres": 70,
+        "latitud": 2.5390386988945903,
+        "longitud": -75.63988683190956
+    },
+    {
+        "id": 44,
+        "name": "LA GUAJIRA",
+        "tipo": "Dpto",
+        "hombres": 327,
+        "mujeres": 384,
+        "latitud": 11.442450586547608,
+        "longitud": -72.48229860373264
+    },
+    {
+        "id": 47,
+        "name": "MAGDALENA",
+        "tipo": "Dpto",
+        "hombres": 916,
+        "mujeres": 617,
+        "latitud": 10.22925559288476,
+        "longitud": -74.28222901940782
+    },
+    {
+        "id": 50,
+        "name": "META",
+        "tipo": "Dpto",
+        "hombres": 192,
+        "mujeres": 238,
+        "latitud": 3.318786924053588,
+        "longitud": -72.96614802529827
+    },
+    {
+        "id": 52,
+        "name": "NARIÑO",
+        "tipo": "Dpto",
+        "hombres": 148,
+        "mujeres": 102,
+        "latitud": 1.545652488649876,
+        "longitud": -77.88920587988753
+    },
+    {
+        "id": 54,
+        "name": "NORTE DE SANTANDER",
+        "tipo": "Dpto",
+        "hombres": 5398,
+        "mujeres": 4933,
+        "latitud": 8.064770464240862,
+        "longitud": -72.90939180838949
+    },
+    {
+        "id": 86,
+        "name": "PUTUMAYO",
+        "tipo": "Dpto",
+        "hombres": 85,
+        "mujeres": 81,
+        "latitud": 0.4386350650280483,
+        "longitud": -75.86512259612111
+    },
+    {
+        "id": 63,
+        "name": "QUINDIO",
+        "tipo": "Dpto",
+        "hombres": 12,
+        "mujeres": 6,
+        "latitud": 4.478233465619869,
+        "longitud": -75.69018248090924
+    },
+    {
+        "id": 66,
+        "name": "RISARALDA",
+        "tipo": "Dpto",
+        "hombres": 7,
+        "mujeres": 13,
+        "latitud": 5.068081878100443,
+        "longitud": -75.92144953462801
+    },
+    {
+        "id": 11,
+        "name": "SANTAFE DE BOGOTA D.C",
+        "tipo": "Dpto",
+        "hombres": 251,
+        "mujeres": 258,
+        "latitud": 4.288578982034106,
+        "longitud": -74.21445362675868
+    },
+    {
+        "id": 68,
+        "name": "SANTANDER",
+        "tipo": "Dpto",
+        "hombres": 923,
+        "mujeres": 787,
+        "latitud": 6.6753938940056,
+        "longitud": -73.51501536703059
+    },
+    {
+        "id": 70,
+        "name": "SUCRE",
+        "tipo": "Dpto",
+        "hombres": 90,
+        "mujeres": 135,
+        "latitud": 9.062540697211617,
+        "longitud": -75.12331879592209
+    },
+    {
+        "id": 73,
+        "name": "TOLIMA",
+        "tipo": "Dpto",
+        "hombres": 34,
+        "mujeres": 37,
+        "latitud": 4.044151639994256,
+        "longitud": -75.26617094101347
+    },
+    {
+        "id": 76,
+        "name": "VALLE DEL CAUCA",
+        "tipo": "Dpto",
+        "hombres": 42,
+        "mujeres": 33,
+        "latitud": 3.865498845845202,
+        "longitud": -76.53405250273339
+    },
+    {
+        "id": 97,
+        "name": "VAUPES",
+        "tipo": "Dpto",
+        "hombres": 3,
+        "mujeres": 2,
+        "latitud": 0.6102477363944805,
+        "longitud": -70.5743904077377
+    },
+    {
+        "id": 99,
+        "name": "VICHADA",
+        "tipo": "Dpto",
+        "hombres": 32,
+        "mujeres": 35,
+        "latitud": 4.668980738270869,
+        "longitud": -69.43305204674303
+    },
+    {
+        "id": 132,
+        "name": "CABO VERDE",
+        "tipo": "Pais",
+        "hombres": 0,
+        "mujeres": 1,
+        "latitud": 16.002082,
+        "longitud": -24.013197
+    },
+    {
+        "id": 124,
+        "name": "CANADA",
+        "tipo": "Pais",
+        "hombres": 1,
+        "mujeres": 0,
+        "latitud": 60.324287,
+        "longitud": -101.9107
+    },
+    {
+        "id": 152,
+        "name": "CHILE",
+        "tipo": "Pais",
+        "hombres": 0,
+        "mujeres": 1,
+        "latitud": -38.151771,
+        "longitud": -72.318871
+    },
+    {
+        "id": 218,
+        "name": "ECUADOR",
+        "tipo": "Pais",
+        "hombres": 2,
+        "mujeres": 1,
+        "latitud": -1.259076,
+        "longitud": -78.188375
+    },
+    {
+        "id": 840,
+        "name": "EEEUU",
+        "tipo": "Pais",
+        "hombres": 0,
+        "mujeres": 1,
+        "latitud": 37.09024,
+        "longitud": -95.712891
+    },
+    {
+        "id": 724,
+        "name": "ESPAÑA",
+        "tipo": "Pais",
+        "hombres": 2,
+        "mujeres": 2,
+        "latitud": 40.463667,
+        "longitud": -3.74922
+    },
+    {
+        "id": 340,
+        "name": "HONDURAS",
+        "tipo": "Pais",
+        "hombres": 1,
+        "mujeres": 0,
+        "latitud": 14.794801,
+        "longitud": -86.887604
+    },
+    {
+        "id": 376,
+        "name": "ISRAEL",
+        "tipo": "Pais",
+        "hombres": 1,
+        "mujeres": 0,
+        "latitud": 30.911148,
+        "longitud": 34.847915
+    },
+    {
+        "id": 484,
+        "name": "MEXICO",
+        "tipo": "Pais",
+        "hombres": 0,
+        "mujeres": 2,
+        "latitud": 23.919988,
+        "longitud": -102.289448
+    },
+    {
+        "id": 600,
+        "name": "PARAGUAY",
+        "tipo": "Pais",
+        "hombres": 1,
+        "mujeres": 0,
+        "latitud": -21.674509,
+        "longitud": -60.146394
+    },
+    {
+        "id": 604,
+        "name": "PERU",
+        "tipo": "Pais",
+        "hombres": 0,
+        "mujeres": 1,
+        "latitud": -12.976679,
+        "longitud": -72.90016
+    },
+    {
+        "id": 862,
+        "name": "VENEZUELA",
+        "tipo": "Pais",
+        "hombres": 408,
+        "mujeres": 381,
+        "latitud": 7.182476,
+        "longitud": -64.599381
+    }
+]

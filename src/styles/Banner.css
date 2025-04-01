@@ -1,0 +1,99 @@
+/* Banner.css */
+
+/* Estilos del contenedor del banner */
+.banner {
+  position: fixed; /* Fija el banner en la parte superior */
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 1); /* Color de fondo inicial */
+  transition: background-color 0.4s ease-in-out, opacity 0.4s ease-in-out, padding 0.4s ease-in-out;
+  padding: 15px 0; /* Espaciado inicial */
+  z-index: 1000; /* Asegura que el banner esté por encima del resto del contenido */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Estilos del banner cuando el usuario hace scroll */
+.banner.scrolled {
+  background-color: rgba(145, 155, 155, 0.3); /* Color de fondo con transparencia */
+  opacity: 0.9;
+  padding: 5px 10px; /* Reduce el grosor del banner */
+  flex-direction: row; /* Alinea elementos en una fila */
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+  width: 100%;
+}
+
+/* Contenedor del logo, título y selector de semestre */
+.logo-title-selector {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  transition: all 0.4s ease-in-out;
+}
+
+/* Estilos de la barra de navegación */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Alineación correcta */
+  transition: all 0.4s ease-in-out;
+}
+.navbar-background {
+  width: 100vw; /* Ocupa todo el ancho de la ventana de visualización */
+  background-color: #ad3333; /* Color de fondo rojo */
+  display: flex;
+  justify-content: center; /* Centra el contenido horizontalmente */
+  box-sizing: border-box; /* Incluye el relleno y el borde en el ancho total del elemento */
+}
+
+/* Ajustar alineación cuando se hace scroll */
+.banner.scrolled .navbar {
+  justify-content: flex-end;
+}
+
+/* Estilos del logo */
+.logo img {
+  width: 5rem;
+  height: auto;
+  transition: width 0.4s ease-in-out;
+}
+
+/* Reducir tamaño del logo al hacer scroll */
+.banner.scrolled .logo img {
+  width: 4rem;
+}
+
+/* Estilos del título */
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  color: #AD3333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  transition: font-size 0.4s ease-in-out;
+}
+
+/* Reducir tamaño del título al hacer scroll */
+.banner.scrolled .title {
+  font-size: 1.4rem;
+}
+
+/* Estilos responsivos para pantallas pequeñas */
+@media (max-width: 768px) {
+  .banner.scrolled {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .logo-title-selector, .navbar {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+  

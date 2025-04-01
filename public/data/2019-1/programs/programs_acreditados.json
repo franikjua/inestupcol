@@ -1,0 +1,382 @@
+[
+    {
+        "SNIES": 9440,
+        "id_programa": 12,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 19816,
+        "id_programa": 12,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11927,
+        "id_programa": 15,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 1,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 14771,
+        "id_programa": 24,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 2,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11305,
+        "id_programa": 31,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 873,
+        "id_programa": 35,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 3,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2
+    },
+    {
+        "SNIES": 9491,
+        "id_programa": 51,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2
+    },
+    {
+        "SNIES": 9980,
+        "id_programa": 53,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11578,
+        "id_programa": 74,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 17521,
+        "id_programa": 79,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 7,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 106652,
+        "id_programa": 405,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 109336,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2
+    },
+    {
+        "SNIES": 106502,
+        "id_programa": 409,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 870,
+        "id_programa": 412,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 4,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11396,
+        "id_programa": 601,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11455,
+        "id_programa": 615,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 2890,
+        "id_programa": 609,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 9245,
+        "id_programa": 610,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 9818,
+        "id_programa": 611,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 2889,
+        "id_programa": 612,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11874,
+        "id_programa": 613,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 9717,
+        "id_programa": 616,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 20651,
+        "id_programa": 619,
+        "id_acreditacion": 2,
+        "id_agencia": 3,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11452,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_agencia": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2
+    },
+    {
+        "SNIES": 9491,
+        "id_programa": 51,
+        "id_acreditacion": 1,
+        "id_agencia": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11835,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_agencia": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2
+    },
+    {
+        "SNIES": 10159,
+        "id_programa": 52,
+        "id_acreditacion": 1,
+        "id_agencia": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 19134,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_agencia": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 2
+    },
+    {
+        "SNIES": 9980,
+        "id_programa": 53,
+        "id_acreditacion": 1,
+        "id_agencia": 1,
+        "id_facultad": 5,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 2890,
+        "id_programa": 609,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 9245,
+        "id_programa": 610,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 9818,
+        "id_programa": 611,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 2889,
+        "id_programa": 612,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 11874,
+        "id_programa": 613,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 9717,
+        "id_programa": 616,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 1,
+        "id_nivel": 1,
+        "id_metodologia": 1
+    },
+    {
+        "SNIES": 20651,
+        "id_programa": 619,
+        "id_acreditacion": 1,
+        "id_agencia": 2,
+        "id_facultad": 6,
+        "id_formacion": 2,
+        "id_nivel": 2,
+        "id_metodologia": 1
+    }
+]
