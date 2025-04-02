@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[544],{9544:e=>{e.exports=JSON.parse('[{"id":1,"nombre":"EQUAA"},{"id":2,"nombre":"ENAEE"},{"id":3,"nombre":"CNA"},{"id":4,"nombre":"MEN"}]')}}]);

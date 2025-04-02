@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[607],{6607:e=>{e.exports=JSON.parse('[{"id":1,"nombre":"Medio Tiempo"},{"id":2,"nombre":"Tiempo completo"},{"id":3,"nombre":"Distancia"},{"id":4,"nombre":"Hora catedra"},{"id":5,"nombre":"Tiempo completo ocacional"},{"id":6,"nombre":"Tutor"}]')}}]);
