@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/inestupcol/static/css/main.582950b6.css",
-    "main.js": "/inestupcol/static/js/main.ecab0868.js",
+    "main.js": "/inestupcol/static/js/main.466677f5.js",
     "static/js/544.ac7cf271.chunk.js": "/inestupcol/static/js/544.ac7cf271.chunk.js",
     "static/js/534.4106b6de.chunk.js": "/inestupcol/static/js/534.4106b6de.chunk.js",
     "static/js/303.ebce6ce0.chunk.js": "/inestupcol/static/js/303.ebce6ce0.chunk.js",
@@ -30,7 +30,7 @@
     "static/media/logo_MEN_reg_calificado.png": "/inestupcol/static/media/logo_MEN_reg_calificado.d92be7efad14910c28d3.png",
     "index.html": "/inestupcol/index.html",
     "main.582950b6.css.map": "/inestupcol/static/css/main.582950b6.css.map",
-    "main.ecab0868.js.map": "/inestupcol/static/js/main.ecab0868.js.map",
+    "main.466677f5.js.map": "/inestupcol/static/js/main.466677f5.js.map",
     "239.6c989dd2.chunk.js.map": "/inestupcol/static/js/239.6c989dd2.chunk.js.map",
     "213.7b4e7396.chunk.js.map": "/inestupcol/static/js/213.7b4e7396.chunk.js.map",
     "732.02e26e7c.chunk.js.map": "/inestupcol/static/js/732.02e26e7c.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.582950b6.css",
-    "static/js/main.ecab0868.js"
+    "static/js/main.466677f5.js"
   ]
 }
