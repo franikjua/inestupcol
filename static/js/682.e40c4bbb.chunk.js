@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[682],{3682:e=>{e.exports=JSON.parse('[{"id":1,"name":"Pregrado"},{"id":2,"name":"Posgrado"}]')}}]);

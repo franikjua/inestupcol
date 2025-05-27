@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/inestupcol/static/css/main.e9606363.css",
-    "main.js": "/inestupcol/static/js/main.bead8e01.js",
+    "main.css": "/inestupcol/static/css/main.a92843e6.css",
+    "main.js": "/inestupcol/static/js/main.43d7e94a.js",
     "static/js/544.ac7cf271.chunk.js": "/inestupcol/static/js/544.ac7cf271.chunk.js",
     "static/js/534.4106b6de.chunk.js": "/inestupcol/static/js/534.4106b6de.chunk.js",
     "static/js/303.ebce6ce0.chunk.js": "/inestupcol/static/js/303.ebce6ce0.chunk.js",
@@ -21,23 +21,31 @@
     "static/js/640.de44ba2c.chunk.js": "/inestupcol/static/js/640.de44ba2c.chunk.js",
     "static/js/55.c805c1b0.chunk.js": "/inestupcol/static/js/55.c805c1b0.chunk.js",
     "static/js/310.0c611436.chunk.js": "/inestupcol/static/js/310.0c611436.chunk.js",
+    "static/js/771.de419936.chunk.js": "/inestupcol/static/js/771.de419936.chunk.js",
+    "static/js/734.a740a1e4.chunk.js": "/inestupcol/static/js/734.a740a1e4.chunk.js",
+    "static/js/404.c2a53854.chunk.js": "/inestupcol/static/js/404.c2a53854.chunk.js",
+    "static/js/895.6c082684.chunk.js": "/inestupcol/static/js/895.6c082684.chunk.js",
+    "static/js/682.e40c4bbb.chunk.js": "/inestupcol/static/js/682.e40c4bbb.chunk.js",
+    "static/js/809.1e8b297b.chunk.js": "/inestupcol/static/js/809.1e8b297b.chunk.js",
+    "static/js/117.0007ec0f.chunk.js": "/inestupcol/static/js/117.0007ec0f.chunk.js",
+    "static/js/605.51dba2d7.chunk.js": "/inestupcol/static/js/605.51dba2d7.chunk.js",
     "static/js/453.bffebb4e.chunk.js": "/inestupcol/static/js/453.bffebb4e.chunk.js",
-    "static/media/logo_acre_internacional.png": "/inestupcol/static/media/logo_acre_internacional.145d41600d9461fd582a.png",
-    "static/media/enaee_logo.png": "/inestupcol/static/media/enaee_logo.719ec7fa010d7a82764f.png",
-    "static/media/logo_acre_alta_calidad.png": "/inestupcol/static/media/logo_acre_alta_calidad.5da0764325ca6eca5f25.png",
-    "static/media/sello_no_discriminacion.png": "/inestupcol/static/media/sello_no_discriminacion.4cb61160cf7109086a8e.png",
+    "static/media/enaee_logo.png": "/inestupcol/static/media/enaee_logo.24a1dc8cac4b82cff9eb.png",
+    "static/media/discriminacion_logo.png": "/inestupcol/static/media/discriminacion_logo.a7a86fecff6d4eef57f8.png",
+    "static/media/CNA_logo.png": "/inestupcol/static/media/CNA_logo.fa6cd5f5145883c5ca3f.png",
+    "static/media/equaa_logo.png": "/inestupcol/static/media/equaa_logo.51a210b1fb5f92948bed.png",
     "static/media/logoinest.png": "/inestupcol/static/media/logoinest.50011f896791c7c19b21.png",
     "static/media/virreteSf.png": "/inestupcol/static/media/virreteSf.bd226803e5d41bfa41ac.png",
     "index.html": "/inestupcol/index.html",
-    "main.e9606363.css.map": "/inestupcol/static/css/main.e9606363.css.map",
-    "main.bead8e01.js.map": "/inestupcol/static/js/main.bead8e01.js.map",
+    "main.a92843e6.css.map": "/inestupcol/static/css/main.a92843e6.css.map",
+    "main.43d7e94a.js.map": "/inestupcol/static/js/main.43d7e94a.js.map",
     "239.6c989dd2.chunk.js.map": "/inestupcol/static/js/239.6c989dd2.chunk.js.map",
     "213.7b4e7396.chunk.js.map": "/inestupcol/static/js/213.7b4e7396.chunk.js.map",
     "732.02e26e7c.chunk.js.map": "/inestupcol/static/js/732.02e26e7c.chunk.js.map",
     "453.bffebb4e.chunk.js.map": "/inestupcol/static/js/453.bffebb4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9606363.css",
-    "static/js/main.bead8e01.js"
+    "static/css/main.a92843e6.css",
+    "static/js/main.43d7e94a.js"
   ]
 }

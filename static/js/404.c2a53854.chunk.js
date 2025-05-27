@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[404],{2404:e=>{e.exports=JSON.parse('[{"id":1,"name":"Presencial"},{"id":2,"name":"Distancia"},{"id":3,"name":"Virtual"}]')}}]);
