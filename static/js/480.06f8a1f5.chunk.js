@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinest_indicadores=self.webpackChunkinest_indicadores||[]).push([[480],{6480:e=>{e.exports=JSON.parse('[{"id":1,"name":"Poblaci\xf3n vulnerable"},{"id":2,"name":"Etnias"},{"id":3,"name":"LGBTIQ+"},{"id":4,"name":"Becas y convenios"},{"id":5,"name":"condici\xf3n academica"}]')}}]);

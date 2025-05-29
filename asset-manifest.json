@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/inestupcol/static/css/main.a92843e6.css",
-    "main.js": "/inestupcol/static/js/main.43d7e94a.js",
+    "main.css": "/inestupcol/static/css/main.7c841b58.css",
+    "main.js": "/inestupcol/static/js/main.e9145712.js",
     "static/js/544.ac7cf271.chunk.js": "/inestupcol/static/js/544.ac7cf271.chunk.js",
     "static/js/534.4106b6de.chunk.js": "/inestupcol/static/js/534.4106b6de.chunk.js",
     "static/js/303.ebce6ce0.chunk.js": "/inestupcol/static/js/303.ebce6ce0.chunk.js",
@@ -14,6 +14,10 @@
     "static/js/369.b54df519.chunk.js": "/inestupcol/static/js/369.b54df519.chunk.js",
     "static/js/609.8bede52c.chunk.js": "/inestupcol/static/js/609.8bede52c.chunk.js",
     "static/js/352.4f8a9ec4.chunk.js": "/inestupcol/static/js/352.4f8a9ec4.chunk.js",
+    "static/js/965.b0cacdc3.chunk.js": "/inestupcol/static/js/965.b0cacdc3.chunk.js",
+    "static/js/831.a9623eee.chunk.js": "/inestupcol/static/js/831.a9623eee.chunk.js",
+    "static/js/480.06f8a1f5.chunk.js": "/inestupcol/static/js/480.06f8a1f5.chunk.js",
+    "static/js/932.5761a3a8.chunk.js": "/inestupcol/static/js/932.5761a3a8.chunk.js",
     "static/js/239.6c989dd2.chunk.js": "/inestupcol/static/js/239.6c989dd2.chunk.js",
     "static/js/213.7b4e7396.chunk.js": "/inestupcol/static/js/213.7b4e7396.chunk.js",
     "static/js/732.02e26e7c.chunk.js": "/inestupcol/static/js/732.02e26e7c.chunk.js",
@@ -37,15 +41,15 @@
     "static/media/logoinest.png": "/inestupcol/static/media/logoinest.50011f896791c7c19b21.png",
     "static/media/virreteSf.png": "/inestupcol/static/media/virreteSf.bd226803e5d41bfa41ac.png",
     "index.html": "/inestupcol/index.html",
-    "main.a92843e6.css.map": "/inestupcol/static/css/main.a92843e6.css.map",
-    "main.43d7e94a.js.map": "/inestupcol/static/js/main.43d7e94a.js.map",
+    "main.7c841b58.css.map": "/inestupcol/static/css/main.7c841b58.css.map",
+    "main.e9145712.js.map": "/inestupcol/static/js/main.e9145712.js.map",
     "239.6c989dd2.chunk.js.map": "/inestupcol/static/js/239.6c989dd2.chunk.js.map",
     "213.7b4e7396.chunk.js.map": "/inestupcol/static/js/213.7b4e7396.chunk.js.map",
     "732.02e26e7c.chunk.js.map": "/inestupcol/static/js/732.02e26e7c.chunk.js.map",
     "453.bffebb4e.chunk.js.map": "/inestupcol/static/js/453.bffebb4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a92843e6.css",
-    "static/js/main.43d7e94a.js"
+    "static/css/main.7c841b58.css",
+    "static/js/main.e9145712.js"
   ]
 }
